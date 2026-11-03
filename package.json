@@ -1,0 +1,48 @@
+{
+  "name": "linguist-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "tsc --noEmit",
+    "test": "vitest run",
+    "seed": "tsx scripts/import-sentences.ts",
+    "seed:csv": "tsx scripts/import-sentences.ts --format csv",
+    "seed:supabase": "tsx scripts/seed-supabase.ts",
+    "audio:generate": "tsx scripts/generate-audio.ts"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/uuid": "^11.0.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  },
+  "dependencies": {
+    "@fontsource/instrument-serif": "5.2.5",
+    "@fontsource/inter-tight": "5.2.5",
+    "@fontsource/jetbrains-mono": "5.2.5",
+    "@supabase/supabase-js": "2.48.1",
+    "@tanstack/react-query": "5.66.0",
+    "clsx": "2.1.1",
+    "compromise": "14.14.4",
+    "csv-parse": "5.6.0",
+    "lucide-react": "1.16.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-router-dom": "7.2.0",
+    "tailwind-merge": "3.0.1",
+    "ts-fsrs": "5.2.2",
+    "uuid": "11.1.0",
+    "zod": "3.24.2",
+    "zustand": "5.0.3"
+  }
+}

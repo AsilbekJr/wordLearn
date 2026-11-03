@@ -1,0 +1,63 @@
+@import "tailwindcss";
+@import "@fontsource/instrument-serif/400.css";
+@import "@fontsource/instrument-serif/400-italic.css";
+@import "@fontsource/inter-tight/400.css";
+@import "@fontsource/inter-tight/500.css";
+@import "@fontsource/inter-tight/600.css";
+@import "@fontsource/inter-tight/700.css";
+@import "@fontsource/jetbrains-mono/400.css";
+@import "@fontsource/jetbrains-mono/500.css";
+
+@layer base {
+  :root {
+    --bg-paper: #F6F1E7;
+    --text-ink: #1B1A17;
+    --text-muted: #646059;
+    --border-hairline: #E2DBD0;
+    --card-surface: #FFFFFF;
+    --accent-vermilion: #D9482B;
+    --accent-vermilion-soft: #F9EBE7;
+    --secondary-moss: #4F6B4A;
+    --secondary-moss-soft: #EDF3EC;
+    --badge-bg: #EAE4D9;
+  }
+
+  .dark {
+    --bg-paper: #14130F;
+    --text-ink: #EDE8DF;
+    --text-muted: #9E988D;
+    --border-hairline: #292723;
+    --card-surface: #1C1B17;
+    --accent-vermilion: #E25B3E;
+    --accent-vermilion-soft: #2B1915;
+    --secondary-moss: #769E6F;
+    --secondary-moss-soft: #1A2418;
+    --badge-bg: #262420;
+  }
+
+  * {
+    border-color: var(--border-hairline);
+  }
+
+  body {
+    background-color: var(--bg-paper);
+    color: var(--text-ink);
+    font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+}
+
+.font-serif {
+  font-family: 'Instrument Serif', Georgia, serif;
+}
+
+.font-sans {
+  font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}

@@ -1,0 +1,1501 @@
+﻿id,hafta,gap,tarjima,grammatika
+1,1,Hello! My name is Asilbek.,Salom! Mening ismim Asilbek.,to be (am/is/are)
+2,1,Good morning! How are you?,Xayrli tong! Qalaysiz?,to be (am/is/are)
+3,1,"I’m fine, thank you. And you?","Yaxshiman, rahmat. O’zingiz-chi?",to be (am/is/are)
+4,1,Nice to meet you.,Tanishganimdan xursandman.,to be (am/is/are)
+5,1,"Good afternoon, Mr. Karimov.","Xayrli kun, Karimov janob.",to be (am/is/are)
+6,1,Hi! How is everything?,Salom! Hammasi qalay?,to be (am/is/are)
+7,1,"I am very well, thanks.","Juda yaxshiman, rahmat.",to be (am/is/are)
+8,1,Good evening! You are welcome here.,Xayrli kech! Xush kelibsiz.,to be (am/is/are)
+9,1,It is nice to see you again.,Sizni yana ko’rganimdan xursandman.,to be (am/is/are)
+10,1,Good night! See you tomorrow.,Xayrli tun! Ertagacha.,to be (am/is/are)
+11,1,I am 31 years old.,Men 31 yoshdaman.,to be (am/is/are)
+12,1,I am from Uzbekistan.,Men O’zbekistonlikman.,to be (am/is/are)
+13,1,I am from Bukhara.,Men Buxorodanman.,to be (am/is/are)
+14,1,I am a teacher.,Men o’qituvchiman.,to be (am/is/are)
+15,1,I am a history teacher.,Men tarix o’qituvchisiman.,to be (am/is/are)
+16,1,I am a frontend developer.,Men frontend dasturchiman.,to be (am/is/are)
+17,1,I am a student of English.,Men ingliz tili o’quvchisiman.,to be (am/is/are)
+18,1,I am a beginner in English.,Men inglizchada boshlovchiman.,to be (am/is/are)
+19,1,I am interested in history.,Men tarixga qiziqaman.,to be (am/is/are)
+20,1,I am a hard-working person.,Men mehnatkash odamman.,to be (am/is/are)
+21,1,I am at home.,Men uydaman.,to be (am/is/are)
+22,1,I am at work now.,Men hozir ishdaman.,to be (am/is/are)
+23,1,We are in the office.,Biz ofisdamiz.,to be (am/is/are)
+24,1,She is in the kitchen.,U oshxonada.,to be (am/is/are)
+25,1,He is at the bus stop.,U avtobus bekatida.,to be (am/is/are)
+26,1,The book is on the table.,Kitob stol ustida.,to be (am/is/are)
+27,1,My phone is in my bag.,Telefonim sumkamda.,to be (am/is/are)
+28,1,The shop is near my house.,Do’kon uyim yaqinida.,to be (am/is/are)
+29,1,The bank is next to the market.,Bank bozor yonida.,to be (am/is/are)
+30,1,They are in the park.,Ular bog’da.,to be (am/is/are)
+31,1,I am tired.,Men charchaganman.,to be (am/is/are)
+32,1,I am hungry.,Men ochman.,to be (am/is/are)
+33,1,I am thirsty.,Men chanqadim.,to be (am/is/are)
+34,1,I am busy today.,Men bugun bandman.,to be (am/is/are)
+35,1,I am very happy.,Men juda xursandman.,to be (am/is/are)
+36,1,She is sad.,U xafa.,to be (am/is/are)
+37,1,He is angry.,U jahldor / jahli chiqqan.,to be (am/is/are)
+38,1,We are ready.,Biz tayyormiz.,to be (am/is/are)
+39,1,The children are sleepy.,Bolalar uyqusirayapti.,to be (am/is/are)
+40,1,I am free in the evening.,Men kechqurun bo’shman.,to be (am/is/are)
+41,1,This is my mother.,Bu mening onam.,to be (am/is/are)
+42,1,My father is a doctor.,Otam shifokor.,to be (am/is/are)
+43,1,My brother is 25 years old.,Akam 25 yoshda.,to be (am/is/are)
+44,1,My sister is a student.,Opam talaba.,to be (am/is/are)
+45,1,My friends are kind.,Do’stlarim mehribon.,to be (am/is/are)
+46,1,She is my best friend.,U mening eng yaqin do’stim.,to be (am/is/are)
+47,1,My family is big.,Oilam katta.,to be (am/is/are)
+48,1,They are my neighbors.,Ular mening qo’shnilarim.,to be (am/is/are)
+49,1,My parents are at home.,Ota-onam uyda.,to be (am/is/are)
+50,1,He is my colleague.,U mening hamkasbim.,to be (am/is/are)
+51,1,I am at the lesson.,Men darsdaman.,to be (am/is/are)
+52,1,The lesson is interesting.,Dars qiziqarli.,to be (am/is/are)
+53,1,The teacher is very kind.,O’qituvchi juda mehribon.,to be (am/is/are)
+54,1,My job is difficult but interesting.,"Ishim qiyin, lekin qiziqarli.",to be (am/is/are)
+55,1,The meeting is at 10 o’clock.,Yig’ilish soat 10 da.,to be (am/is/are)
+56,1,We are colleagues.,Biz hamkasbmiz.,to be (am/is/are)
+57,1,The students are in the classroom.,O’quvchilar sinfda.,to be (am/is/are)
+58,1,The office is open.,Ofis ochiq.,to be (am/is/are)
+59,1,The exam is difficult.,Imtihon qiyin.,to be (am/is/are)
+60,1,My laptop is new.,Noutbukim yangi.,to be (am/is/are)
+61,1,It is 7 o’clock.,Soat 7.,to be (am/is/are)
+62,1,Today is Monday.,Bugun dushanba.,to be (am/is/are)
+63,1,It is cold today.,Bugun sovuq.,to be (am/is/are)
+64,1,It is sunny.,Havo quyoshli.,to be (am/is/are)
+65,1,It is late.,Kech bo’ldi.,to be (am/is/are)
+66,1,It is too early.,Hali juda erta.,to be (am/is/are)
+67,1,The weather is nice.,Ob-havo yaxshi.,to be (am/is/are)
+68,1,It is my birthday today.,Bugun mening tug’ilgan kunim.,to be (am/is/are)
+69,1,Today is a holiday.,Bugun bayram.,to be (am/is/are)
+70,1,It is far from here.,Bu yerdan uzoq.,to be (am/is/are)
+71,1,I was at home yesterday.,Kecha uyda edim.,to be (was/were)
+72,1,She was at work.,U ishda edi.,to be (was/were)
+73,1,We were in Samarkand last year.,O’tgan yili Samarqandda edik.,to be (was/were)
+74,1,They were tired.,Ular charchagan edi.,to be (was/were)
+75,1,The weather was cold.,Havo sovuq edi.,to be (was/were)
+76,1,I was a student five years ago.,Besh yil oldin talaba edim.,to be (was/were)
+77,1,Where were you last night?,Kecha kechqurun qayerda eding?,to be (was/were)
+78,1,He was not at the lesson.,U darsda emas edi.,to be (was/were)
+79,1,Were you at school?,Maktabda eding mi?,to be (was/were)
+80,1,The film was interesting.,Film qiziqarli edi.,to be (was/were)
+81,1,I will be at home tomorrow.,Ertaga uyda bo’laman.,to be (will be)
+82,1,She will be late.,U kech qoladi.,to be (will be)
+83,1,We will be free on Sunday.,Yakshanba kuni bo’sh bo’lamiz.,to be (will be)
+84,1,It will be hot tomorrow.,Ertaga issiq bo’ladi.,to be (will be)
+85,1,They will be here soon.,Ular tez orada shu yerda bo’ladi.,to be (will be)
+86,1,I will be a teacher in a private school.,Men xususiy maktabda o’qituvchi bo’laman.,to be (will be)
+87,1,The meeting will be at 3 p.m.,Yig’ilish soat 15:00 da bo’ladi.,to be (will be)
+88,1,You will be fine.,Hammasi yaxshi bo’ladi.,to be (will be)
+89,1,Will you be at the lesson?,Darsda bo’lasizmi?,to be (will be)
+90,1,I won’t be late.,Kech qolmayman.,to be (will be)
+91,1,I am not tired.,Men charchamaganman.,to be (inkor/so’roq)
+92,1,He isn’t at home.,U uyda emas.,to be (inkor/so’roq)
+93,1,They aren’t ready.,Ular tayyor emas.,to be (inkor/so’roq)
+94,1,"Are you a teacher? Yes, I am.",Siz o’qituvchimisiz? Ha.,to be (inkor/so’roq)
+95,1,"Is she at work? No, she isn’t.",U ishdami? Yo’q.,to be (inkor/so’roq)
+96,1,Who is he?,U kim?,to be (inkor/so’roq)
+97,1,What is your name?,Ismingiz nima?,to be (inkor/so’roq)
+98,1,How old are you?,Necha yoshdasiz?,to be (inkor/so’roq)
+99,1,Where are you from?,Qayerdansiz?,to be (inkor/so’roq)
+100,1,What time is it?,Soat necha?,to be (inkor/so’roq)
+101,2,I wake up at 7 a.m.,Men ertalab soat 7 da uyg’onaman.,"Present Simple, odat"
+102,2,I get up at 7:15.,7:15 da turaman.,"Present Simple, odat"
+103,2,I brush my teeth.,Tishimni yuvaman.,"Present Simple, odat"
+104,2,I wash my face.,Yuzimni yuvaman.,"Present Simple, odat"
+105,2,I take a shower.,Dush qabul qilaman.,"Present Simple, odat"
+106,2,I have breakfast at 8.,Soat 8 da nonushta qilaman.,"Present Simple, odat"
+107,2,I drink tea every morning.,Har ertalab choy ichaman.,"Present Simple, odat"
+108,2,I make my bed.,To’shagimni yig’ishtiraman.,"Present Simple, odat"
+109,2,I get dressed.,Kiyinaman.,"Present Simple, odat"
+110,2,I leave home at 8:30.,8:30 da uydan chiqaman.,"Present Simple, odat"
+111,2,She drives to work every day.,U har kuni ishga mashinada boradi.,"Present Simple, he/she -s"
+112,2,He works in a bank.,U bankda ishlaydi.,"Present Simple, he/she -s"
+113,2,She cooks dinner every evening.,U har kechqurun kechki ovqat tayyorlaydi.,"Present Simple, he/she -s"
+114,2,He cleans the house on Saturdays.,U shanba kunlari uyni yig’ishtiradi.,"Present Simple, he/she -s"
+115,2,My mother washes the dishes.,Onam idish yuvadi.,"Present Simple, he/she -s"
+116,2,My father reads the news.,Otam yangiliklarni o’qiydi.,"Present Simple, he/she -s"
+117,2,She goes to the market on Fridays.,U juma kunlari bozorga boradi.,"Present Simple, he/she -s"
+118,2,He walks to school.,U maktabga piyoda boradi.,"Present Simple, he/she -s"
+119,2,My sister studies English.,Opam ingliz tilini o’rganadi.,"Present Simple, he/she -s"
+120,2,My brother plays football.,Akam futbol o’ynaydi.,"Present Simple, he/she -s"
+121,2,I clean my room every day.,Har kuni xonamni tozalayman.,"Present Simple, uy ishlari"
+122,2,I wash clothes on Sundays.,Yakshanba kunlari kir yuvaman.,"Present Simple, uy ishlari"
+123,2,We cook plov on weekends.,Dam olish kunlari palov pishiramiz.,"Present Simple, uy ishlari"
+124,2,I open the window in the morning.,Ertalab derazani ochaman.,"Present Simple, uy ishlari"
+125,2,She waters the flowers.,U gullarga suv quyadi.,"Present Simple, uy ishlari"
+126,2,He takes out the rubbish.,U axlatni chiqaradi.,"Present Simple, uy ishlari"
+127,2,I turn off the lights at night.,Kechasi chiroqni o’chiraman.,"Present Simple, uy ishlari"
+128,2,We eat dinner together.,Kechki ovqatni birga yeymiz.,"Present Simple, uy ishlari"
+129,2,I set the table.,Dasturxon yozaman.,"Present Simple, uy ishlari"
+130,2,The kids help me at home.,Bolalar uyda menga yordam beradi.,"Present Simple, uy ishlari"
+131,2,I start work at 9.,Ishni soat 9 da boshlayman.,"Present Simple, ish va o’qish"
+132,2,I finish work at 6.,Ishni soat 6 da tugataman.,"Present Simple, ish va o’qish"
+133,2,I work on my laptop.,Noutbukda ishlayman.,"Present Simple, ish va o’qish"
+134,2,I write code every day.,Har kuni kod yozaman.,"Present Simple, ish va o’qish"
+135,2,I teach history.,Tarixdan dars beraman.,"Present Simple, ish va o’qish"
+136,2,I study English every evening.,Har kechqurun ingliz tilini o’rganaman.,"Present Simple, ish va o’qish"
+137,2,I read a book before bed.,Uxlashdan oldin kitob o’qiyman.,"Present Simple, ish va o’qish"
+138,2,I go to the office by bus.,Ofisga avtobusda boraman.,"Present Simple, ish va o’qish"
+139,2,The lesson starts at 10.,Dars soat 10 da boshlanadi.,"Present Simple, ish va o’qish"
+140,2,We have a break at 1.,Soat 1 da tanaffusimiz bor.,"Present Simple, ish va o’qish"
+141,2,They watch TV in the evening.,Ular kechqurun televizor ko’radi.,"Present Simple, umumiy haqiqat"
+142,2,We listen to music.,Musiqa tinglaymiz.,"Present Simple, umumiy haqiqat"
+143,2,My friends play games.,Do’stlarim o’yin o’ynaydi.,"Present Simple, umumiy haqiqat"
+144,2,People drink tea in Uzbekistan.,O’zbekistonda odamlar choy ichadi.,"Present Simple, umumiy haqiqat"
+145,2,Children go to school.,Bolalar maktabga boradi.,"Present Simple, umumiy haqiqat"
+146,2,Birds sing in the morning.,Qushlar ertalab sayraydi.,"Present Simple, umumiy haqiqat"
+147,2,The shop opens at 9.,Do’kon soat 9 da ochiladi.,"Present Simple, umumiy haqiqat"
+148,2,The sun rises in the east.,Quyosh sharqdan chiqadi.,"Present Simple, umumiy haqiqat"
+149,2,Water boils at 100 degrees.,Suv 100 darajada qaynaydi.,"Present Simple, umumiy haqiqat"
+150,2,Bees make honey.,Asalarilar asal yasaydi.,"Present Simple, umumiy haqiqat"
+151,2,The train arrives at 7 a.m.,Poyezd soat 7 da keladi.,"Present Simple, jadval"
+152,2,The bus leaves at 8:15.,Avtobus 8:15 da jo’naydi.,"Present Simple, jadval"
+153,2,The lesson begins at 3 p.m.,Dars soat 15:00 da boshlanadi.,"Present Simple, jadval"
+154,2,The bank opens at 9.,Bank soat 9 da ochiladi.,"Present Simple, jadval"
+155,2,The shop closes at 8.,Do’kon soat 8 da yopiladi.,"Present Simple, jadval"
+156,2,The film starts at 6.,Film soat 6 da boshlanadi.,"Present Simple, jadval"
+157,2,The plane takes off at 10:30.,Samolyot 10:30 da uchadi.,"Present Simple, jadval"
+158,2,The meeting ends at 5.,Yig’ilish soat 5 da tugaydi.,"Present Simple, jadval"
+159,2,The market opens at 7.,Bozor soat 7 da ochiladi.,"Present Simple, jadval"
+160,2,The museum closes at 5.,Muzey soat 5 da yopiladi.,"Present Simple, jadval"
+161,2,I always drink tea in the morning.,Ertalab doim choy ichaman.,"Present Simple, frequency adverbs"
+162,2,I usually wake up at 7.,Odatda soat 7 da uyg’onaman.,"Present Simple, frequency adverbs"
+163,2,She often walks to work.,U tez-tez ishga piyoda boradi.,"Present Simple, frequency adverbs"
+164,2,He sometimes eats out.,U ba’zan tashqarida ovqatlanadi.,"Present Simple, frequency adverbs"
+165,2,They never watch TV in the morning.,Ular ertalab hech qachon televizor ko’rmaydi.,"Present Simple, frequency adverbs"
+166,2,We rarely go to the cinema.,Biz kamdan-kam kinoga boramiz.,"Present Simple, frequency adverbs"
+167,2,I never skip breakfast.,Nonushtani hech qachon qoldirmayman.,"Present Simple, frequency adverbs"
+168,2,She always arrives on time.,U doim vaqtida keladi.,"Present Simple, frequency adverbs"
+169,2,He usually reads before bed.,U odatda uxlashdan oldin o’qiydi.,"Present Simple, frequency adverbs"
+170,2,I sometimes cook dinner.,Ba’zan kechki ovqat pishiraman.,"Present Simple, frequency adverbs"
+171,2,I don’t drink coffee.,Men qahva ichmayman.,"Present Simple, inkor"
+172,2,She doesn’t work on Sundays.,U yakshanba kunlari ishlamaydi.,"Present Simple, inkor"
+173,2,He doesn’t like fast food.,U fast-fud yoqtirmaydi.,"Present Simple, inkor"
+174,2,We don’t have a car.,Bizda mashina yo’q.,"Present Simple, inkor"
+175,2,They don’t live here.,Ular bu yerda yashamaydi.,"Present Simple, inkor"
+176,2,The shop doesn’t open on Mondays.,Do’kon dushanba kunlari ochilmaydi.,"Present Simple, inkor"
+177,2,I don’t watch TV much.,Televizorni ko’p ko’rmayman.,"Present Simple, inkor"
+178,2,My brother doesn’t eat meat.,Akam go’sht yemaydi.,"Present Simple, inkor"
+179,2,It doesn’t rain here in summer.,Bu yerda yozda yomg’ir yog’maydi.,"Present Simple, inkor"
+180,2,She doesn’t speak English well.,U inglizchani yaxshi gapirmaydi.,"Present Simple, inkor"
+181,2,Do you work every day?,Har kuni ishlaysizmi?,"Present Simple, so’roq"
+182,2,Does she live in Tashkent?,U Toshkentda yashaydimi?,"Present Simple, so’roq"
+183,2,What time do you wake up?,Soat nechada uyg’onasiz?,"Present Simple, so’roq"
+184,2,Where do you work?,Qayerda ishlaysiz?,"Present Simple, so’roq"
+185,2,What does he do?,U nima ish qiladi?,"Present Simple, so’roq"
+186,2,How do you go to work?,Ishga qanday borasiz?,"Present Simple, so’roq"
+187,2,Do they have a car?,Ularda mashina bormi?,"Present Simple, so’roq"
+188,2,Does the bus stop here?,Avtobus shu yerda to’xtaydimi?,"Present Simple, so’roq"
+189,2,When does the lesson start?,Dars qachon boshlanadi?,"Present Simple, so’roq"
+190,2,Why do you study English?,Nega ingliz tilini o’rganasiz?,"Present Simple, so’roq"
+191,2,"Yes, I do.",Ha.,"Present Simple, javob va o’zim haqimda"
+192,2,"No, she doesn’t.",Yo’q.,"Present Simple, javob va o’zim haqimda"
+193,2,I live in Tashkent.,Toshkentda yashayman.,"Present Simple, javob va o’zim haqimda"
+194,2,I have two brothers.,Ikkita akam bor.,"Present Simple, javob va o’zim haqimda"
+195,2,She has a big family.,Uning oilasi katta.,"Present Simple, javob va o’zim haqimda"
+196,2,He likes tea.,U choyni yoqtiradi.,"Present Simple, javob va o’zim haqimda"
+197,2,I want to learn English.,Ingliz tilini o’rganmoqchiman.,"Present Simple, javob va o’zim haqimda"
+198,2,They need help.,Ularga yordam kerak.,"Present Simple, javob va o’zim haqimda"
+199,2,We know him.,Biz uni taniymiz.,"Present Simple, javob va o’zim haqimda"
+200,2,I love my job.,Ishimni yaxshi ko’raman.,"Present Simple, javob va o’zim haqimda"
+201,3,I went to the market yesterday.,Kecha bozorga bordim.,"Past Simple, aniq vaqt"
+202,3,We bought bread last night.,Kecha kechqurun non sotib oldik.,"Past Simple, aniq vaqt"
+203,3,She cooked plov last Sunday.,U o’tgan yakshanba palov pishirdi.,"Past Simple, aniq vaqt"
+204,3,He visited his friend last week.,U o’tgan hafta do’stinikiga bordi.,"Past Simple, aniq vaqt"
+205,3,They moved to Tashkent in 2020.,Ular 2020 yilda Toshkentga ko’chib o’tdi.,"Past Simple, aniq vaqt"
+206,3,I started this course two weeks ago.,Bu kursni ikki hafta oldin boshladim.,"Past Simple, aniq vaqt"
+207,3,We had lunch at 2 p.m. yesterday.,Kecha soat 2 da tushlik qildik.,"Past Simple, aniq vaqt"
+208,3,She came home at 6 o’clock.,U soat 6 da uyga keldi.,"Past Simple, aniq vaqt"
+209,3,I watched a film last weekend.,O’tgan dam olish kunlari film ko’rdim.,"Past Simple, aniq vaqt"
+210,3,He lived in Bukhara five years ago.,U besh yil oldin Buxoroda yashagan.,"Past Simple, aniq vaqt"
+211,3,I cooked dinner for my family.,Oilam uchun kechki ovqat pishirdim.,"Past Simple, muntazam fe’l"
+212,3,She cleaned the kitchen.,U oshxonani tozaladi.,"Past Simple, muntazam fe’l"
+213,3,We washed the vegetables.,Sabzavotlarni yuvdik.,"Past Simple, muntazam fe’l"
+214,3,He opened the shop at 9.,U do’konni soat 9 da ochdi.,"Past Simple, muntazam fe’l"
+215,3,I wanted a cup of tea.,Bir piyola choy xohladim.,"Past Simple, muntazam fe’l"
+216,3,They studied English last year.,Ular o’tgan yili ingliz tilini o’rgandi.,"Past Simple, muntazam fe’l"
+217,3,She stopped at the bakery.,U novvoyxonada to’xtadi.,"Past Simple, muntazam fe’l"
+218,3,I ordered a pizza.,Pitsa buyurtma qildim.,"Past Simple, muntazam fe’l"
+219,3,He carried the bags.,U sumkalarni ko’tardi.,"Past Simple, muntazam fe’l"
+220,3,We waited for the bus.,Avtobusni kutdik.,"Past Simple, muntazam fe’l"
+221,3,I went to the supermarket.,Supermarketga bordim.,"Past Simple, noto’g’ri fe’l"
+222,3,She bought fresh vegetables.,U yangi sabzavot sotib oldi.,"Past Simple, noto’g’ri fe’l"
+223,3,We ate rice for lunch.,Tushlikda guruch yedik.,"Past Simple, noto’g’ri fe’l"
+224,3,He drank a glass of milk.,U bir stakan sut ichdi.,"Past Simple, noto’g’ri fe’l"
+225,3,I had a big breakfast.,Katta nonushta qildim.,"Past Simple, noto’g’ri fe’l"
+226,3,She made a salad.,U salat tayyorladi.,"Past Simple, noto’g’ri fe’l"
+227,3,They took a taxi to the market.,Ular bozorga taksida bordi.,"Past Simple, noto’g’ri fe’l"
+228,3,I saw my neighbor in the shop.,Do’konda qo’shnimni ko’rdim.,"Past Simple, noto’g’ri fe’l"
+229,3,He got some bread.,U biroz non oldi.,"Past Simple, noto’g’ri fe’l"
+230,3,We came back at 7.,Soat 7 da qaytib keldik.,"Past Simple, noto’g’ri fe’l"
+231,3,My mother made soup yesterday.,Onam kecha sho’rva qildi.,"Past Simple, uyda ovqat"
+232,3,We had plov for dinner.,Kechki ovqatga palov yedik.,"Past Simple, uyda ovqat"
+233,3,I ate two eggs for breakfast.,Nonushtada ikkita tuxum yedim.,"Past Simple, uyda ovqat"
+234,3,She put sugar in the tea.,U choyga shakar soldi.,"Past Simple, uyda ovqat"
+235,3,He cut the bread.,U nonni kesdi.,"Past Simple, uyda ovqat"
+236,3,I boiled some water.,Biroz suv qaynatdim.,"Past Simple, uyda ovqat"
+237,3,We fried potatoes.,Kartoshka qovurdik.,"Past Simple, uyda ovqat"
+238,3,The soup tasted great.,Sho’rva juda mazali edi.,"Past Simple, uyda ovqat"
+239,3,The kids ate all the fruit.,Bolalar hamma mevani yedi.,"Past Simple, uyda ovqat"
+240,3,I drank green tea after dinner.,Kechki ovqatdan keyin ko’k choy ichdim.,"Past Simple, uyda ovqat"
+241,3,I bought a new phone last month.,O’tgan oy yangi telefon sotib oldim.,"Past Simple, xarid"
+242,3,She paid by card.,U karta bilan to’ladi.,"Past Simple, xarid"
+243,3,The shirt cost 20 dollars.,Ko’ylak 20 dollar turdi.,"Past Simple, xarid"
+244,3,I spent too much money.,Juda ko’p pul sarfladim.,"Past Simple, xarid"
+245,3,He sold his old laptop.,U eski noutbukini sotdi.,"Past Simple, xarid"
+246,3,We found a good price.,Yaxshi narx topdik.,"Past Simple, xarid"
+247,3,The shop was crowded.,Do’kon gavjum edi.,"Past Simple, xarid"
+248,3,I took a bag with me.,Yonimga sumka oldim.,"Past Simple, xarid"
+249,3,She tried on a jacket.,U kurtkani kiyib ko’rdi.,"Past Simple, xarid"
+250,3,They gave me a discount.,Menga chegirma berishdi.,"Past Simple, xarid"
+251,3,We went to a restaurant on Friday.,Juma kuni restoranga bordik.,"Past Simple, restoran va kafe"
+252,3,I asked for the menu.,Menyu so’radim.,"Past Simple, restoran va kafe"
+253,3,The waiter brought the food.,Ofitsiant ovqatni olib keldi.,"Past Simple, restoran va kafe"
+254,3,I ordered chicken and salad.,Tovuq va salat buyurtma qildim.,"Past Simple, restoran va kafe"
+255,3,The food was delicious.,Ovqat mazali edi.,"Past Simple, restoran va kafe"
+256,3,We paid the bill.,Hisobni to’ladik.,"Past Simple, restoran va kafe"
+257,3,She left a tip.,U choy puli qoldirdi.,"Past Simple, restoran va kafe"
+258,3,I met my friend in a cafe.,Do’stim bilan kafeda uchrashdim.,"Past Simple, restoran va kafe"
+259,3,We talked for two hours.,Ikki soat gaplashdik.,"Past Simple, restoran va kafe"
+260,3,The service was slow.,Xizmat sekin edi.,"Past Simple, restoran va kafe"
+261,3,"I woke up, washed my face and had breakfast.","Uyg’ondim, yuzimni yuvdim va nonushta qildim.","Past Simple, ketma-ket harakatlar"
+262,3,"She went to the shop, bought milk and came home.","U do’konga bordi, sut sotib oldi va uyga keldi.","Past Simple, ketma-ket harakatlar"
+263,3,"First I cut the onions, then I fried them.","Avval piyozni to’g’radim, keyin qovurdim.","Past Simple, ketma-ket harakatlar"
+264,3,"We arrived, sat down and ordered tea.","Keldik, o’tirdik va choy buyurtma qildik.","Past Simple, ketma-ket harakatlar"
+265,3,He opened the door and walked in.,"U eshikni ochib, ichkariga kirdi.","Past Simple, ketma-ket harakatlar"
+266,3,I took the money and paid the seller.,Pulni oldim va sotuvchiga to’ladim.,"Past Simple, ketma-ket harakatlar"
+267,3,"After dinner, we watched TV.",Kechki ovqatdan keyin televizor ko’rdik.,"Past Simple, ketma-ket harakatlar"
+268,3,"I finished work, then went to the bazaar.","Ishni tugatdim, keyin bozorga bordim.","Past Simple, ketma-ket harakatlar"
+269,3,She wrote a list and went shopping.,U ro’yxat yozdi va xaridga ketdi.,"Past Simple, ketma-ket harakatlar"
+270,3,"They ate, paid and left.","Ular ovqatlandi, to’ladi va ketdi.","Past Simple, ketma-ket harakatlar"
+271,3,I didn’t go to the market.,Bozorga bormadim.,"Past Simple, inkor"
+272,3,She didn’t buy any bread.,U non sotib olmadi.,"Past Simple, inkor"
+273,3,We didn’t have lunch.,Tushlik qilmadik.,"Past Simple, inkor"
+274,3,He didn’t like the soup.,Unga sho’rva yoqmadi.,"Past Simple, inkor"
+275,3,They didn’t come yesterday.,Ular kecha kelmadi.,"Past Simple, inkor"
+276,3,I didn’t see him.,Uni ko’rmadim.,"Past Simple, inkor"
+277,3,The shop didn’t open on Sunday.,Do’kon yakshanba kuni ochilmadi.,"Past Simple, inkor"
+278,3,She didn’t cook dinner.,U kechki ovqat pishirmadi.,"Past Simple, inkor"
+279,3,I didn’t have enough money.,Pulim yetarli emas edi.,"Past Simple, inkor"
+280,3,We didn’t wait long.,Uzoq kutmadik.,"Past Simple, inkor"
+281,3,Did you go to the shop?,Do’konga bordingizmi?,"Past Simple, so’roq"
+282,3,What did you buy?,Nima sotib oldingiz?,"Past Simple, so’roq"
+283,3,Where did you eat lunch?,Tushlikni qayerda qildingiz?,"Past Simple, so’roq"
+284,3,Did she cook dinner?,U kechki ovqat pishirdimi?,"Past Simple, so’roq"
+285,3,How much did it cost?,Qancha turdi?,"Past Simple, so’roq"
+286,3,When did you get home?,Uyga qachon keldingiz?,"Past Simple, so’roq"
+287,3,Who did you meet?,Kim bilan uchrashdingiz?,"Past Simple, so’roq"
+288,3,What did you have for breakfast?,Nonushtada nima yedingiz?,"Past Simple, so’roq"
+289,3,Did they pay by card?,Ular karta bilan to’ladimi?,"Past Simple, so’roq"
+290,3,Why did you leave early?,Nega erta ketdingiz?,"Past Simple, so’roq"
+291,3,"Yes, I did.",Ha.,"Past Simple, javob va hikoya"
+292,3,"No, she didn’t.",Yo’q.,"Past Simple, javob va hikoya"
+293,3,"I was hungry, so I ate.","Ochiqqan edim, shuning uchun ovqatlandim.","Past Simple, javob va hikoya"
+294,3,The bread was fresh.,Non yangi edi.,"Past Simple, javob va hikoya"
+295,3,Last year I bought a laptop.,O’tgan yili noutbuk sotib oldim.,"Past Simple, javob va hikoya"
+296,3,In 2024 I started a new job.,2024 yilda yangi ishni boshladim.,"Past Simple, javob va hikoya"
+297,3,Yesterday I studied English for three hours.,Kecha uch soat ingliz tili o’rgandim.,"Past Simple, javob va hikoya"
+298,3,I didn’t know the answer.,Javobni bilmasdim.,"Past Simple, javob va hikoya"
+299,3,He told me the news.,U menga yangilikni aytdi.,"Past Simple, javob va hikoya"
+300,3,That was a great day.,Zo’r kun edi.,"Past Simple, javob va hikoya"
+301,4,The light is broken. I’ll change it.,Chiroq buzilgan. Men uni almashtiraman.,"will, hozir qabul qilingan qaror"
+302,4,The tap is leaking. I’ll call a plumber.,Kran oqyapti. Santexnik chaqiraman.,"will, hozir qabul qilingan qaror"
+303,4,It’s cold in here. I’ll close the window.,Bu yerda sovuq. Derazani yopaman.,"will, hozir qabul qilingan qaror"
+304,4,The door is stuck. I’ll try to open it.,Eshik tiqilib qolgan. Ochishga urinaman.,"will, hozir qabul qilingan qaror"
+305,4,We’re out of paint. I’ll buy more.,Bo’yoq tugabdi. Ko’proq sotib olaman.,"will, hozir qabul qilingan qaror"
+306,4,The floor is dirty. I’ll clean it now.,Pol iflos. Hozir tozalayman.,"will, hozir qabul qilingan qaror"
+307,4,I can’t find the key. I’ll look in my bag.,Kalitni topolmayapman. Sumkamdan qarayman.,"will, hozir qabul qilingan qaror"
+308,4,The room is dark. I’ll turn on the light.,Xona qorong’i. Chiroqni yoqaman.,"will, hozir qabul qilingan qaror"
+309,4,The heater doesn’t work. I’ll check the switch.,Isitgich ishlamayapti. Tugmani tekshiraman.,"will, hozir qabul qilingan qaror"
+310,4,It’s too hot. I’ll open the door.,Juda issiq. Eshikni ochaman.,"will, hozir qabul qilingan qaror"
+311,4,The wall looks old. I’ll paint it.,Devor eski ko’rinadi. Bo’yayman.,"will, hozir qabul qilingan qaror"
+312,4,The shelf is loose. I’ll fix it today.,Tokcha bo’sh. Bugun ta’mirlayman.,"will, hozir qabul qilingan qaror"
+313,4,I’ll fix the roof next week. I promise.,Tomni kelasi hafta tuzataman. Va’da beraman.,"will, va’da"
+314,4,I’ll call you tonight.,Bugun kechqurun qo’ng’iroq qilaman.,"will, va’da"
+315,4,We’ll finish the work on time.,Ishni o’z vaqtida tugatamiz.,"will, va’da"
+316,4,I won’t forget to pay the bill.,Hisobni to’lashni unutmayman.,"will, va’da"
+317,4,She’ll clean the house before the guests come.,U mehmonlar kelguncha uyni tozalaydi.,"will, va’da"
+318,4,I’ll be careful with the tools.,Asboblar bilan ehtiyot bo’laman.,"will, va’da"
+319,4,I’ll return your ladder tomorrow.,Narvoningizni ertaga qaytaraman.,"will, va’da"
+320,4,"Don’t worry, I’ll do it myself.","Xavotir olmang, o’zim qilaman.","will, va’da"
+321,4,I’ll never leave the gas on again.,Gazni boshqa hech qachon yoqiq qoldirmayman.,"will, va’da"
+322,4,We’ll pay you on Friday.,Sizga juma kuni to’laymiz.,"will, va’da"
+323,4,I’ll help you carry the boxes.,Qutilarni ko’tarishga yordam beraman.,"will, taklif"
+324,4,Shall I open the window?,Derazani ochaymi?,"will, taklif"
+325,4,I’ll hold the ladder for you.,Narvonni sizga ushlab turaman.,"will, taklif"
+326,4,Shall I make some tea?,Choy qilaymi?,"will, taklif"
+327,4,Will you help me move the table?,Stolni surishga yordam berasizmi?,"will, taklif"
+328,4,I’ll bring the tools.,Asboblarni olib kelaman.,"will, taklif"
+329,4,Shall I call the electrician?,Elektrikni chaqiraymi?,"will, taklif"
+330,4,Let me clean that for you. I’ll do it.,"Buni men tozalay, men qilaman.","will, taklif"
+331,4,I’ll water the plants while you’re away.,Siz yo’qligingizda gullarni sug’oraman.,"will, taklif"
+332,4,Shall we start with the kitchen?,Oshxonadan boshlaymizmi?,"will, taklif"
+333,4,"Will you pass me the hammer, please?",Bolg’ani uzatib yuborasizmi?,"will, taklif"
+334,4,I’ll take out the rubbish for you.,Axlatni sizning o’rningizga chiqaraman.,"will, taklif"
+335,4,I think it will rain tomorrow.,"Menimcha, ertaga yomg’ir yog’adi.","will, bashorat"
+336,4,The repair will probably take three days.,Ta’mir ehtimol uch kun oladi.,"will, bashorat"
+337,4,I believe the new heater will work well.,Yangi isitgich yaxshi ishlaydi deb o’ylayman.,"will, bashorat"
+338,4,It will be expensive.,Qimmat bo’ladi.,"will, bashorat"
+339,4,The house will look much better after painting.,Bo’yalgandan keyin uy ancha yaxshi ko’rinadi.,"will, bashorat"
+340,4,I think the plumber will come soon.,Santexnik tez orada keladi deb o’ylayman.,"will, bashorat"
+341,4,Winter will be cold this year.,Bu yil qish sovuq bo’ladi.,"will, bashorat"
+342,4,The roof will leak if we don’t fix it.,"Tuzatmasak, tom oqadi.","will, bashorat"
+343,4,Prices will go up next year.,Narxlar kelasi yili ko’tariladi.,"will, bashorat"
+344,4,They will probably finish by Friday.,Ular ehtimol juma kunigacha tugatadi.,"will, bashorat"
+345,4,Maybe the neighbors will help us.,Ehtimol qo’shnilar yordam berar.,"will, bashorat"
+346,4,The new windows will keep the house warm.,Yangi derazalar uyni iliq saqlaydi.,"will, bashorat"
+347,4,I’ll paint the walls this weekend.,Dam olish kunlari devorlarni bo’yayman.,"will, uy ta’miri"
+348,4,We’ll repair the floor next month.,Polni kelasi oy ta’mirlaymiz.,"will, uy ta’miri"
+349,4,I’ll replace the old pipes.,Eski quvurlarni almashtiraman.,"will, uy ta’miri"
+350,4,She’ll clean the windows tomorrow.,U ertaga oynalarni tozalaydi.,"will, uy ta’miri"
+351,4,They’ll install a new boiler.,Ular yangi qozon o’rnatadi.,"will, uy ta’miri"
+352,4,I’ll check the gas and electricity.,Gaz va elektrni tekshiraman.,"will, uy ta’miri"
+353,4,We’ll fix the broken fence.,Buzilgan to’siqni tuzatamiz.,"will, uy ta’miri"
+354,4,I’ll change the lock on the door.,Eshikning qulfini almashtiraman.,"will, uy ta’miri"
+355,4,He’ll cut the grass in the garden.,U bog’dagi o’tni o’radi.,"will, uy ta’miri"
+356,4,We’ll buy a new sofa next month.,Kelasi oy yangi divan sotib olamiz.,"will, uy ta’miri"
+357,4,I’ll clean the air conditioner filter.,Konditsioner filtrini tozalayman.,"will, uy ta’miri"
+358,4,The workers will repair the roof on Monday.,Ishchilar tomni dushanba kuni tuzatadi.,"will, uy ta’miri"
+359,4,I’ll put up a new shelf.,Yangi tokcha o’rnataman.,"will, uy ta’miri"
+360,4,We’ll insulate the walls before winter.,Qishgacha devorlarni izolyatsiya qilamiz.,"will, uy ta’miri"
+361,4,I’ll call the plumber now.,Santexnikni hozir chaqiraman.,"will, usta va xizmat"
+362,4,"Can you come tomorrow? Yes, I’ll be there at 10.","Ertaga kela olasizmi? Ha, soat 10 da bo’laman.","will, usta va xizmat"
+363,4,How much will it cost?,Qancha turadi?,"will, usta va xizmat"
+364,4,It’ll cost about 50 dollars.,Taxminan 50 dollar turadi.,"will, usta va xizmat"
+365,4,How long will it take?,Qancha vaqt oladi?,"will, usta va xizmat"
+366,4,It will take about two hours.,Taxminan ikki soat oladi.,"will, usta va xizmat"
+367,4,When will you start the work?,Ishni qachon boshlaysiz?,"will, usta va xizmat"
+368,4,We’ll start on Monday morning.,Dushanba kuni ertalab boshlaymiz.,"will, usta va xizmat"
+369,4,Will you bring the materials?,Materiallarni o’zingiz olib kelasizmi?,"will, usta va xizmat"
+370,4,I’ll send you the price by message.,Narxni xabar bilan yuboraman.,"will, usta va xizmat"
+371,4,I’ll do it later.,Buni keyinroq qilaman.,"will, vaqt va ketma-ket reja"
+372,4,We’ll start in an hour.,Bir soatdan keyin boshlaymiz.,"will, vaqt va ketma-ket reja"
+373,4,I’ll be home in ten minutes.,O’n daqiqadan keyin uyda bo’laman.,"will, vaqt va ketma-ket reja"
+374,4,They’ll arrive soon.,Ular tez orada yetib keladi.,"will, vaqt va ketma-ket reja"
+375,4,I’ll finish this tonight.,Buni bugun kechqurun tugataman.,"will, vaqt va ketma-ket reja"
+376,4,"First I’ll clean the wall, then I’ll paint it.","Avval devorni tozalayman, keyin bo’yayman.","will, vaqt va ketma-ket reja"
+377,4,"After the repair, we’ll move the furniture.",Ta’mirdan keyin mebelni joylashtiramiz.,"will, vaqt va ketma-ket reja"
+378,4,"In two days, the house will be ready.",Ikki kundan keyin uy tayyor bo’ladi.,"will, vaqt va ketma-ket reja"
+379,4,I won’t be home tomorrow.,Ertaga uyda bo’lmayman.,"will, inkor"
+380,4,She won’t pay that much.,U unchalik ko’p to’lamaydi.,"will, inkor"
+381,4,It won’t take long.,Uzoq vaqt olmaydi.,"will, inkor"
+382,4,The paint won’t dry today.,Bo’yoq bugun qurimaydi.,"will, inkor"
+383,4,We won’t finish before Friday.,Juma kunigacha tugatolmaymiz.,"will, inkor"
+384,4,I won’t forget your help.,Yordamingizni unutmayman.,"will, inkor"
+385,4,The door won’t open.,Eshik ochilmayapti.,"will, inkor"
+386,4,They won’t come until Monday.,Ular dushanbagacha kelmaydi.,"will, inkor"
+387,4,Will you fix it today?,Buni bugun tuzatasizmi?,"will, so’roq"
+388,4,Will it rain tomorrow?,Ertaga yomg’ir yog’adimi?,"will, so’roq"
+389,4,Will the plumber come on time?,Santexnik o’z vaqtida keladimi?,"will, so’roq"
+390,4,What will you do about the roof?,Tom bilan nima qilasiz?,"will, so’roq"
+391,4,Where will you put the new sofa?,Yangi divanni qayerga qo’yasiz?,"will, so’roq"
+392,4,When will the work be ready?,Ish qachon tayyor bo’ladi?,"will, so’roq"
+393,4,Who will help you with the repair?,Ta’mirda kim yordam beradi?,"will, so’roq"
+394,4,Will it be expensive?,Qimmat bo’ladimi?,"will, so’roq"
+395,4,Will you be at home on Saturday?,Shanba kuni uyda bo’lasizmi?,"will, so’roq"
+396,4,"Yes, I will.",Ha.,"will, javob va o’zim haqimda"
+397,4,"No, I won’t.",Yo’q.,"will, javob va o’zim haqimda"
+398,4,I think I’ll study English at home tonight.,"Menimcha, bugun kechqurun uyda ingliz tili o’rganaman.","will, javob va o’zim haqimda"
+399,4,One day I’ll teach history in English.,Bir kun kelib tarixdan inglizcha dars beraman.,"will, javob va o’zim haqimda"
+400,4,I’ll pass the IELTS exam.,IELTS imtihonidan o’taman.,"will, javob va o’zim haqimda"
+401,5,I’m going to get a haircut tomorrow.,Ertaga soch oldiraman.,"going to, oldindan qilingan reja"
+402,5,I’m going to visit the barber on Saturday.,Shanba kuni sartaroshga boraman.,"going to, oldindan qilingan reja"
+403,5,We’re going to go to the barber shop together.,Sartaroshxonaga birga boramiz.,"going to, oldindan qilingan reja"
+404,5,She’s going to take her son for a haircut.,U o’g’lini soch oldirishga olib boradi.,"going to, oldindan qilingan reja"
+405,5,He’s going to shave his beard next week.,U kelasi hafta soqolini oldiradi.,"going to, oldindan qilingan reja"
+406,5,They’re going to open a new barber shop.,Ular yangi sartaroshxona ochmoqchi.,"going to, oldindan qilingan reja"
+407,5,I’m going to book an appointment for 5 p.m.,Soat 17:00 ga navbat olaman.,"going to, oldindan qilingan reja"
+408,5,My brother is going to cut his hair before the wedding.,Akam to’ydan oldin soch oldiradi.,"going to, oldindan qilingan reja"
+409,5,I’m going to have a haircut before my interview.,Intervyudan oldin soch oldiraman.,"going to, oldindan qilingan reja"
+410,5,We’re going to see our barber on Friday.,Juma kuni sartaroshimizga boramiz.,"going to, oldindan qilingan reja"
+411,5,She’s going to learn to cut hair.,U soch olishni o’rganmoqchi.,"going to, oldindan qilingan reja"
+412,5,I’m going to change my hairstyle this month.,Shu oy soch turmagimni o’zgartiraman.,"going to, oldindan qilingan reja"
+413,5,I’ve decided: I’m going to grow my beard.,Qaror qildim: soqol qo’yaman.,"going to, oldindan qabul qilingan qaror"
+414,5,I’m going to try a new hairstyle.,Yangi soch turmagini sinab ko’raman.,"going to, oldindan qabul qilingan qaror"
+415,5,He’s going to get a short haircut for summer.,U yoz uchun qisqa soch oldiradi.,"going to, oldindan qabul qilingan qaror"
+416,5,I’m going to come back in the evening.,Kechqurun qaytib kelaman.,"going to, oldindan qabul qilingan qaror"
+417,5,I’m going to ask for a fade.,Fade (pasayib boruvchi) turmak so’rayman.,"going to, oldindan qabul qilingan qaror"
+418,5,She’s going to dye her hair.,U sochini bo’yaydi.,"going to, oldindan qabul qilingan qaror"
+419,5,I’m going to go to a different barber this time.,Bu safar boshqa sartaroshga boraman.,"going to, oldindan qabul qilingan qaror"
+420,5,We’re going to save money and cut our hair at home.,"Pulni tejab, uyda soch olamiz.","going to, oldindan qabul qilingan qaror"
+421,5,I’m going to buy a hair clipper.,Soch olish mashinkasini sotib olaman.,"going to, oldindan qabul qilingan qaror"
+422,5,He’s going to be a barber one day.,U bir kun sartarosh bo’ladi.,"going to, oldindan qabul qilingan qaror"
+423,5,Look at the queue! We’re going to wait a long time.,Navbatga qarang! Uzoq kutamiz.,"going to, ko’rinib turgan belgi asosida bashorat"
+424,5,The barber looks tired. He’s going to close soon.,Sartarosh charchagan. Tez orada yopadi.,"going to, ko’rinib turgan belgi asosida bashorat"
+425,5,Look at his hair! It’s going to be very short.,Sochiga qarang! Juda qisqa bo’ladi.,"going to, ko’rinib turgan belgi asosida bashorat"
+426,5,The clippers are broken. He’s going to use scissors.,Mashinka buzilgan. U qaychi ishlatadi.,"going to, ko’rinib turgan belgi asosida bashorat"
+427,5,Careful! You’re going to cut me.,Ehtiyot bo’ling! Meni kesib yuborasiz.,"going to, ko’rinib turgan belgi asosida bashorat"
+428,5,It’s 4:50 and the shop is full. We’re going to be late.,"Soat 4:50, do’kon to’la. Kech qolamiz.","going to, ko’rinib turgan belgi asosida bashorat"
+429,5,The sky is dark. It’s going to rain.,Osmon qorong’i. Yomg’ir yog’adi.,"going to, ko’rinib turgan belgi asosida bashorat"
+430,5,The little boy is scared. He’s going to cry.,Kichkina bola qo’rqib ketgan. U yig’laydi.,"going to, ko’rinib turgan belgi asosida bashorat"
+431,5,Look! The barber is putting on his coat. He’s going to leave.,Qarang! Sartarosh paltosini kiyyapti. Ketadi.,"going to, ko’rinib turgan belgi asosida bashorat"
+432,5,This haircut is going to look great.,Bu soch olish zo’r ko’rinadi.,"going to, ko’rinib turgan belgi asosida bashorat"
+433,5,The mirror is dirty. He’s going to clean it.,Oyna iflos. U tozalaydi.,"going to, ko’rinib turgan belgi asosida bashorat"
+434,5,The razor is sharp. This is going to be quick.,Ustara o’tkir. Bu tez bo’ladi.,"going to, ko’rinib turgan belgi asosida bashorat"
+435,5,"Hello! I’m going to have a haircut, please.",Salom! Soch oldirmoqchiman.,"going to, sartaroshxonaga kirish va navbat"
+436,5,Who’s going to cut my hair today?,Bugun sochimni kim oladi?,"going to, sartaroshxonaga kirish va navbat"
+437,5,How long am I going to wait?,Qancha kutaman?,"going to, sartaroshxonaga kirish va navbat"
+438,5,I’m going to sit here and wait.,Shu yerda o’tirib kutaman.,"going to, sartaroshxonaga kirish va navbat"
+439,5,Are you going to be free soon?,Tez orada bo’shaysizmi?,"going to, sartaroshxonaga kirish va navbat"
+440,5,I’m going to come back in 30 minutes.,30 daqiqadan keyin qaytib kelaman.,"going to, sartaroshxonaga kirish va navbat"
+441,5,"I’m going to need an appointment, right?","Menga navbat kerak bo’ladi, to’g’rimi?","going to, sartaroshxonaga kirish va navbat"
+442,5,Is the barber going to take me now?,Sartarosh meni hozir oladimi?,"going to, sartaroshxonaga kirish va navbat"
+443,5,Take a seat. I’m going to start in five minutes.,O’tiring. Besh daqiqadan keyin boshlayman.,"going to, sartaroshxonaga kirish va navbat"
+444,5,We’re going to wash your hair first.,Avval sochingizni yuvamiz.,"going to, sartaroshxonaga kirish va navbat"
+445,5,I’m going to put a cape on you.,Sizga yopinchiq yopaman.,"going to, sartaroshxonaga kirish va navbat"
+446,5,Are you going to use the clippers or scissors?,Mashinka ishlatasizmi yoki qaychi?,"going to, sartaroshxonaga kirish va navbat"
+447,5,I’m going to take a little off the top.,Tepadan ozgina olaman.,"going to, soch turmagini aytish"
+448,5,What are we going to do today?,Bugun nima qilamiz?,"going to, soch turmagini aytish"
+449,5,I’m going to have it short on the sides.,Yonlarini qisqa qildiraman.,"going to, soch turmagini aytish"
+450,5,We’re going to leave it longer on top.,Tepasini uzunroq qoldiramiz.,"going to, soch turmagini aytish"
+451,5,Are you going to trim the back?,Orqasini tekislaysizmi?,"going to, soch turmagini aytish"
+452,5,I’m going to ask him to use a number two.,Undan 2-raqamli nasadkani ishlatishni so’rayman.,"going to, soch turmagini aytish"
+453,5,He’s going to trim the ends.,U uchlarini kesadi.,"going to, soch turmagini aytish"
+454,5,I’m going to keep the same style.,Xuddi shu turmakni saqlayman.,"going to, soch turmagini aytish"
+455,5,Are you going to use a machine?,Mashinka ishlatasizmi?,"going to, soch turmagini aytish"
+456,5,I’m going to wash and dry your hair.,"Sochingizni yuvib, quritaman.","going to, soch turmagini aytish"
+457,5,Is he going to style my hair with gel?,U sochimni gel bilan turmaklaydimi?,"going to, soch turmagini aytish"
+458,5,I’m going to show him a photo.,Unga rasm ko’rsataman.,"going to, soch turmagini aytish"
+459,5,I’m going to trim my beard.,Soqolimni tekislataman.,"going to, soqol va qirish"
+460,5,He’s going to shave my face with a razor.,U yuzimni ustara bilan qiradi.,"going to, soqol va qirish"
+461,5,Are you going to shape my beard?,Soqolimga shakl berasizmi?,"going to, soqol va qirish"
+462,5,I’m going to keep my mustache.,Mo’ylovimni saqlayman.,"going to, soqol va qirish"
+463,5,He’s going to put a hot towel on my face.,U yuzimga issiq sochiq qo’yadi.,"going to, soqol va qirish"
+464,5,He’s going to clean up my neckline.,U bo’yin atrofini tozalaydi.,"going to, soqol va qirish"
+465,5,I’m going to ask for a clean shave.,Silliq qirishni so’rayman.,"going to, soqol va qirish"
+466,5,This shave is going to be smooth.,Bu qirish silliq bo’ladi.,"going to, soqol va qirish"
+467,5,The barber is going to trim my eyebrows.,Sartarosh qoshimni tekislaydi.,"going to, soqol va qirish"
+468,5,I’m going to use aftershave.,Qirgandan keyingi losyon ishlataman.,"going to, soqol va qirish"
+469,5,How much is it going to cost?,Qancha turadi?,"going to, to’lov va xayrlashish"
+470,5,"It’s going to cost 50,000 soums.",50 000 so’m turadi.,"going to, to’lov va xayrlashish"
+471,5,I’m going to pay by card.,Karta bilan to’layman.,"going to, to’lov va xayrlashish"
+472,5,I’m going to pay in cash.,Naqd to’layman.,"going to, to’lov va xayrlashish"
+473,5,He’s going to leave a tip.,U choy puli qoldiradi.,"going to, to’lov va xayrlashish"
+474,5,I’m going to recommend this barber to my friends.,Bu sartaroshni do’stlarimga tavsiya qilaman.,"going to, to’lov va xayrlashish"
+475,5,I’m going to come back in a month.,Bir oydan keyin qaytib kelaman.,"going to, to’lov va xayrlashish"
+476,5,I’m going to book the next appointment now.,Keyingi navbatni hozir olaman.,"going to, to’lov va xayrlashish"
+477,5,I’m not going to cut it too short.,Juda qisqa oldirmayman.,"going to, inkor"
+478,5,She isn’t going to dye her hair.,U sochini bo’yamaydi.,"going to, inkor"
+479,5,He isn’t going to shave his beard.,U soqolini oldirmaydi.,"going to, inkor"
+480,5,We aren’t going to wait long.,Uzoq kutmaymiz.,"going to, inkor"
+481,5,They aren’t going to open on Monday.,Ular dushanba kuni ochmaydi.,"going to, inkor"
+482,5,I’m not going to use gel.,Gel ishlatmayman.,"going to, inkor"
+483,5,The barber isn’t going to be here tomorrow.,Sartarosh ertaga bu yerda bo’lmaydi.,"going to, inkor"
+484,5,It isn’t going to take long.,Uzoq vaqt olmaydi.,"going to, inkor"
+485,5,Are you going to get a haircut?,Soch oldirmoqchimisiz?,"going to, so’roq"
+486,5,What are you going to do with your hair?,Sochingiz bilan nima qilmoqchisiz?,"going to, so’roq"
+487,5,Where are you going to cut your hair?,Sochingizni qayerda oldirasiz?,"going to, so’roq"
+488,5,Is she going to come with you?,U siz bilan keladimi?,"going to, so’roq"
+489,5,When are you going to go to the barber?,Sartaroshga qachon borasiz?,"going to, so’roq"
+490,5,Who is going to cut your hair?,Sochingizni kim oladi?,"going to, so’roq"
+491,5,How long is it going to take?,Qancha vaqt oladi?,"going to, so’roq"
+492,5,Are they going to open on Sunday?,Ular yakshanba kuni ochiladimi?,"going to, so’roq"
+493,5,Why are you going to change your style?,Nega turmagingizni o’zgartirmoqchisiz?,"going to, so’roq"
+494,5,Which barber are you going to see?,Qaysi sartaroshga borasiz?,"going to, so’roq"
+495,5,"Yes, I am.",Ha.,"going to, javob va o’zim haqimda"
+496,5,"No, he isn’t.",Yo’q.,"going to, javob va o’zim haqimda"
+497,5,I’m going to learn English every day.,Har kuni ingliz tili o’rganaman.,"going to, javob va o’zim haqimda"
+498,5,I’m going to take the IELTS exam.,IELTS imtihonini topshiraman.,"going to, javob va o’zim haqimda"
+499,5,I’m going to teach history in English.,Tarixdan inglizcha dars beraman.,"going to, javob va o’zim haqimda"
+500,5,I’m going to be a great teacher.,Men a’lo o’qituvchi bo’laman.,"going to, javob va o’zim haqimda"
+501,6,"When I arrive at the hospital, I will go to the reception.","Kasalxonaga yetib borsam, registraturaga boraman.","When/If clause, kasalxonaga kelganda"
+502,6,"If you have an appointment, you will wait in this room.","Navbatingiz bo’lsa, shu xonada kutasiz.","When/If clause, kasalxonaga kelganda"
+503,6,"When the doctor is ready, the nurse will call your name.","Shifokor tayyor bo’lganda, hamshira ismingizni chaqiradi.","When/If clause, kasalxonaga kelganda"
+504,6,"If you don’t have a card, you will need to register.","Kartangiz bo’lmasa, ro’yxatdan o’tishingiz kerak.","When/If clause, kasalxonaga kelganda"
+505,6,"When you come tomorrow, please bring your passport.","Ertaga kelsangiz, pasportingizni olib keling.","When/If clause, kasalxonaga kelganda"
+506,6,"If the clinic is closed, I will call again on Monday.","Poliklinika yopiq bo’lsa, dushanba kuni yana qo’ng’iroq qilaman.","When/If clause, kasalxonaga kelganda"
+507,6,"When I get the ticket, I will sit and wait.","Talon olsam, o’tirib kutaman.","When/If clause, kasalxonaga kelganda"
+508,6,"If the queue is long, we will come back later.","Navbat uzun bo’lsa, keyinroq qaytamiz.","When/If clause, kasalxonaga kelganda"
+509,6,"When the results are ready, the nurse will give them to you.","Natijalar tayyor bo’lganda, hamshira sizga beradi.","When/If clause, kasalxonaga kelganda"
+510,6,"If you need help, ask the nurse.","Yordam kerak bo’lsa, hamshiradan so’rang.","When/If clause, kasalxonaga kelganda"
+511,6,"If you have a headache, you should rest.","Boshingiz og’risa, dam olishingiz kerak.","When/If clause, shifokor qabulida"
+512,6,"When I have a cold, I stay at home.",Shamollaganimda uyda qolaman.,"When/If clause, shifokor qabulida"
+513,6,"If you have a fever, the doctor will check your temperature.","Isitmangiz bo’lsa, shifokor haroratingizni o’lchaydi.","When/If clause, shifokor qabulida"
+514,6,"When the doctor examines you, he will ask some questions.","Shifokor sizni ko’rganda, bir necha savol beradi.","When/If clause, shifokor qabulida"
+515,6,"If you feel pain here, tell me.","Shu yerda og’riq sezsangiz, ayting.","When/If clause, shifokor qabulida"
+516,6,"If the cough continues, you will need a test.","Yo’tal davom etsa, tahlil kerak bo’ladi.","When/If clause, shifokor qabulida"
+517,6,"If your throat hurts, drink warm tea.","Tomog’ingiz og’risa, iliq choy iching.","When/If clause, shifokor qabulida"
+518,6,"If you have a stomachache, don’t eat spicy food.","Qorningiz og’risa, achchiq ovqat yemang.","When/If clause, shifokor qabulida"
+519,6,"When your temperature goes up, call me.","Haroratingiz ko’tarilsa, menga qo’ng’iroq qiling.","When/If clause, shifokor qabulida"
+520,6,"If the pain gets worse, come back immediately.","Og’riq kuchaysa, darhol qaytib keling.","When/If clause, shifokor qabulida"
+521,6,"If you want to get better, you will need to rest.","Tuzalmoqchi bo’lsangiz, dam olishingiz kerak.","When/If clause, maslahat va ko’rsatma"
+522,6,"When you feel tired, sleep more.",Charchaganingizda ko’proq uxlang.,"When/If clause, maslahat va ko’rsatma"
+523,6,"If you drink more water, you will feel better.","Ko’proq suv ichsangiz, o’zingizni yaxshi his qilasiz.","When/If clause, maslahat va ko’rsatma"
+524,6,"If you don’t sleep enough, you will get ill.","Yetarli uxlamasangiz, kasal bo’lasiz.","When/If clause, maslahat va ko’rsatma"
+525,6,"When you go out, wear a warm jacket.",Tashqariga chiqqanda issiq kurtka kiying.,"When/If clause, maslahat va ko’rsatma"
+526,6,"If you have a cold, stay at home and drink tea.","Shamollagan bo’lsangiz, uyda qoling va choy iching.","When/If clause, maslahat va ko’rsatma"
+527,6,"If you exercise every day, you will be healthier.","Har kuni mashq qilsangiz, sog’lom bo’lasiz.","When/If clause, maslahat va ko’rsatma"
+528,6,"When you cough, cover your mouth.",Yo’talganda og’zingizni yoping.,"When/If clause, maslahat va ko’rsatma"
+529,6,"If you wash your hands often, you won’t catch germs.","Qo’lingizni tez-tez yuvsangiz, mikrob yuqtirmaysiz.","When/If clause, maslahat va ko’rsatma"
+530,6,"If you eat healthy food, you will have more energy.","Foydali ovqat yesangiz, quvvatingiz ko’p bo’ladi.","When/If clause, maslahat va ko’rsatma"
+531,6,"When I go to the pharmacy, I will buy vitamins.","Dorixonaga borsam, vitamin sotib olaman.","When/If clause, dorixonada"
+532,6,"If you have a prescription, the pharmacist will give you the medicine.","Retseptingiz bo’lsa, farmatsevt dorini beradi.","When/If clause, dorixonada"
+533,6,"If they don’t have this medicine, I will ask for another one.","Bu dori bo’lmasa, boshqasini so’rayman.","When/If clause, dorixonada"
+534,6,"When you pay, you will get a receipt.","To’lasangiz, chek olasiz.","When/If clause, dorixonada"
+535,6,"If you need advice, ask the pharmacist.","Maslahat kerak bo’lsa, farmatsevtdan so’rang.","When/If clause, dorixonada"
+536,6,"When the medicine is ready, I will call you.","Dori tayyor bo’lganda, sizga qo’ng’iroq qilaman.","When/If clause, dorixonada"
+537,6,"If it is expensive, I will look for a cheaper one.","Qimmat bo’lsa, arzonroq dori qidiraman.","When/If clause, dorixonada"
+538,6,"If you have a rash, this cream will help.","Toshmangiz bo’lsa, bu krem yordam beradi.","When/If clause, dorixonada"
+539,6,"When I run out of tablets, I will come back.","Tabletkalarim tugasa, qaytib kelaman.","When/If clause, dorixonada"
+540,6,"If you are allergic to this medicine, tell the doctor.","Bu dorini ko’tarmasangiz, shifokorga ayting.","When/If clause, dorixonada"
+541,6,"If you take this medicine, you will feel better in two days.","Bu dorini ichsangiz, ikki kunda yaxshi bo’lasiz.","When/If clause, dori ichish tartibi"
+542,6,"When you take the tablets, drink a glass of water.",Tabletkani ichganda bir stakan suv iching.,"When/If clause, dori ichish tartibi"
+543,6,"If you forget to take a tablet, ask your pharmacist what to do.","Tabletka ichishni unutsangiz, farmatsevtdan nima qilishni so’rang.","When/If clause, dori ichish tartibi"
+544,6,"When you have a cough, take this syrup as the doctor says.","Yo’talsangiz, bu sirupni shifokor aytganidek iching.","When/If clause, dori ichish tartibi"
+545,6,"If you feel dizzy after the medicine, call the doctor.","Dori ichgandan keyin boshingiz aylansa, shifokorga qo’ng’iroq qiling.","When/If clause, dori ichish tartibi"
+546,6,Read the label before you take any medicine.,Har qanday dorini ichishdan oldin yorliqni o’qing.,"When/If clause, dori ichish tartibi"
+547,6,"If the medicine doesn’t help, you will need to see the doctor again.","Dori yordam bermasa, shifokorga yana borishingiz kerak.","When/If clause, dori ichish tartibi"
+548,6,"When you finish the course, come for a check-up.","Kursni tugatganingizda, tekshiruvga keling.","When/If clause, dori ichish tartibi"
+549,6,"If it is hot, keep the medicine in a cool place.","Havo issiq bo’lsa, dorini salqin joyda saqlang.","When/If clause, dori ichish tartibi"
+550,6,"If you have any side effects, tell your doctor.","Yon ta’sirlar bo’lsa, shifokorga ayting.","When/If clause, dori ichish tartibi"
+551,6,"If someone is hurt, call 103.","Kimdir jarohat olsa, 103 ga qo’ng’iroq qiling.","When/If clause, tez yordam va shoshilinch holat"
+552,6,"When the ambulance arrives, the paramedics will help him.","Tez yordam kelganda, feldsherlar unga yordam beradi.","When/If clause, tez yordam va shoshilinch holat"
+553,6,"If you can’t breathe, call an ambulance immediately.","Nafas ololmasangiz, darhol tez yordam chaqiring.","When/If clause, tez yordam va shoshilinch holat"
+554,6,"If you see an accident, call for help.","Hodisani ko’rsangiz, yordam chaqiring.","When/If clause, tez yordam va shoshilinch holat"
+555,6,"When the doctor arrives, he will take him to hospital.","Shifokor kelganda, uni kasalxonaga olib boradi.","When/If clause, tez yordam va shoshilinch holat"
+556,6,"If he is unconscious, call an ambulance at once.","U hushsiz bo’lsa, zudlik bilan tez yordam chaqiring.","When/If clause, tez yordam va shoshilinch holat"
+557,6,"If the bleeding doesn’t stop, go to the emergency room.","Qon to’xtamasa, shoshilinch yordam xonasiga boring.","When/If clause, tez yordam va shoshilinch holat"
+558,6,"When the patient comes in, the doctors will examine him quickly.","Bemor kirganda, shifokorlar uni tez ko’rib chiqadi.","When/If clause, tez yordam va shoshilinch holat"
+559,6,"If you break your arm, you will need an X-ray.","Qo’lingiz singan bo’lsa, rentgen kerak bo’ladi.","When/If clause, tez yordam va shoshilinch holat"
+560,6,"If it is serious, they will take you to the hospital.","Jiddiy bo’lsa, sizni kasalxonaga olib borishadi.","When/If clause, tez yordam va shoshilinch holat"
+561,6,"If you don’t drink water, you get thirsty.","Suv ichmasangiz, chanqaysiz.",0-tur shart (doimiy fakt)
+562,6,"If you eat too much sugar, your teeth get bad.","Juda ko’p shakar yesangiz, tishlaringiz buziladi.",0-tur shart (doimiy fakt)
+563,6,"If people don’t sleep, they feel tired.","Odamlar uxlamasa, charchaydi.",0-tur shart (doimiy fakt)
+564,6,"When you walk every day, your heart gets stronger.","Har kuni yurganingizda, yuragingiz mustahkamlanadi.",0-tur shart (doimiy fakt)
+565,6,"If you get a cut, you need a plaster.","Kesib olsangiz, plastir kerak.",0-tur shart (doimiy fakt)
+566,6,"When it is cold, many people catch a cold.",Sovuq bo’lganda ko’p odamlar shamollaydi.,0-tur shart (doimiy fakt)
+567,6,"If you smoke, you harm your lungs.","Cheksangiz, o’pkangizga zarar yetkazasiz.",0-tur shart (doimiy fakt)
+568,6,"When children get a fever, parents call the doctor.","Bolalarning isitmasi chiqsa, ota-onalar shifokorni chaqiradi.",0-tur shart (doimiy fakt)
+569,6,"If you exercise, you feel more energetic.","Mashq qilsangiz, o’zingizni baquvvat his qilasiz.",0-tur shart (doimiy fakt)
+570,6,"When you are stressed, you can’t sleep well.","Stressda bo’lsangiz, yaxshi uxlay olmaysiz.",0-tur shart (doimiy fakt)
+571,6,"Before you see the doctor, you will fill in a form.",Shifokorga kirishdan oldin anketa to’ldirasiz.,before / after / as soon as / until
+572,6,"After the doctor examines you, you will go to the pharmacy.",Shifokor ko’rgandan keyin dorixonaga borasiz.,before / after / as soon as / until
+573,6,"As soon as I get the results, I will call you.",Natijani olishim bilanoq sizga qo’ng’iroq qilaman.,before / after / as soon as / until
+574,6,I will wait here until the doctor comes.,Shifokor kelguncha shu yerda kutaman.,before / after / as soon as / until
+575,6,"After I buy the medicine, I will go home.",Dorini sotib olgandan keyin uyga ketaman.,before / after / as soon as / until
+576,6,"Before I take the medicine, I will read the label.",Dorini ichishdan oldin yorliqni o’qiyman.,before / after / as soon as / until
+577,6,"When I feel better, I will go back to work.",Yaxshi bo’lganimda ishga qaytaman.,before / after / as soon as / until
+578,6,"As soon as you feel worse, call the doctor.",Ahvolingiz yomonlashishi bilanoq shifokorni chaqiring.,before / after / as soon as / until
+579,6,I will stay at home until my fever goes down.,Isitmam tushguncha uyda qolaman.,before / after / as soon as / until
+580,6,"When I get well, I will start running again.",Tuzalganimda yana yugurishni boshlayman.,before / after / as soon as / until
+581,6,"If I don’t feel better, I will see the doctor again.","Yaxshi bo’lmasam, shifokorga yana boraman.","If clause, inkor va unless"
+582,6,"Unless you rest, you won’t get better.","Dam olmasangiz, tuzalmaysiz.","If clause, inkor va unless"
+583,6,"If you don’t take the medicine, the cough won’t go away.","Dori ichmasangiz, yo’tal ketmaydi.","If clause, inkor va unless"
+584,6,"Unless the doctor says so, don’t stop taking the medicine.","Shifokor aytmasa, dori ichishni to’xtatmang.","If clause, inkor va unless"
+585,6,"If it doesn’t hurt, you don’t need a tablet.","Og’rimasa, tabletka kerak emas.","If clause, inkor va unless"
+586,6,"If you aren’t sure, ask the pharmacist.","Ishonchingiz komil bo’lmasa, farmatsevtdan so’rang.","If clause, inkor va unless"
+587,6,I won’t go to work if I have a fever.,"Isitmam bo’lsa, ishga bormayman.","If clause, inkor va unless"
+588,6,"If the clinic doesn’t open today, we won’t get the results.","Poliklinika bugun ochilmasa, natijani olmaymiz.","If clause, inkor va unless"
+589,6,"Unless there is a problem, you won’t need another test.","Muammo bo’lmasa, yana tahlil kerak bo’lmaydi.","If clause, inkor va unless"
+590,6,"If he doesn’t come on time, we will lose our turn.","U o’z vaqtida kelmasa, navbatimizni yo’qotamiz.","If clause, inkor va unless"
+591,6,What will you do if you have a headache?,"Boshingiz og’risa, nima qilasiz?","When/If clause, so’roq va o’zim haqimda"
+592,6,When will the doctor see you?,Shifokor sizni qachon qabul qiladi?,"When/If clause, so’roq va o’zim haqimda"
+593,6,What will happen if I don’t take the medicine?,"Dori ichmasam, nima bo’ladi?","When/If clause, so’roq va o’zim haqimda"
+594,6,"If you feel ill tomorrow, will you go to the clinic?","Ertaga o’zingizni yomon sezsangiz, poliklinikaga borasizmi?","When/If clause, so’roq va o’zim haqimda"
+595,6,When will the results be ready?,Natijalar qachon tayyor bo’ladi?,"When/If clause, so’roq va o’zim haqimda"
+596,6,Where will you go if you need medicine at night?,"Kechasi dori kerak bo’lsa, qayerga borasiz?","When/If clause, so’roq va o’zim haqimda"
+597,6,What will you say if the doctor asks about your symptoms?,"Shifokor belgilar haqida so’rasa, nima deysiz?","When/If clause, so’roq va o’zim haqimda"
+598,6,"If I pass the IELTS, I will apply to the school.","IELTS dan o’tsam, maktabga murojaat qilaman.","When/If clause, so’roq va o’zim haqimda"
+599,6,"When I get IELTS 7, I will teach history in English.","IELTS 7 olganimda, tarixdan inglizcha dars beraman.","When/If clause, so’roq va o’zim haqimda"
+600,6,"If I study every day, I will reach my goal.","Har kuni o’qisam, maqsadimga yetaman.","When/If clause, so’roq va o’zim haqimda"
+601,7,I’m working on my laptop now.,Hozir noutbukda ishlayapman.,"Present Continuous, hozir bo’layotgan ish"
+602,7,She is talking to a customer right now.,U hozir mijoz bilan gaplashyapti.,"Present Continuous, hozir bo’layotgan ish"
+603,7,He is writing a report at the moment.,U hozir hisobot yozyapti.,"Present Continuous, hozir bo’layotgan ish"
+604,7,We are having a meeting.,Yig’ilish o’tkazyapmiz.,"Present Continuous, hozir bo’layotgan ish"
+605,7,The manager is speaking on the phone.,Menejer telefonda gaplashyapti.,"Present Continuous, hozir bo’layotgan ish"
+606,7,They are waiting for the client.,Ular mijozni kutyapti.,"Present Continuous, hozir bo’layotgan ish"
+607,7,I’m answering emails.,Elektron xatlarga javob yozyapman.,"Present Continuous, hozir bo’layotgan ish"
+608,7,She’s making coffee for the team.,U jamoa uchun qahva tayyorlayapti.,"Present Continuous, hozir bo’layotgan ish"
+609,7,The students are doing a test.,O’quvchilar test ishlayapti.,"Present Continuous, hozir bo’layotgan ish"
+610,7,He’s fixing a computer.,U kompyuterni tuzatyapti.,"Present Continuous, hozir bo’layotgan ish"
+611,7,I’m teaching a lesson now.,Hozir dars o’tyapman.,"Present Continuous, hozir bo’layotgan ish"
+612,7,The accountant is counting the money.,Buxgalter pulni sanayapti.,"Present Continuous, hozir bo’layotgan ish"
+613,7,They’re packing the orders.,Ular buyurtmalarni o’rayapti.,"Present Continuous, hozir bo’layotgan ish"
+614,7,Listen! The boss is calling us.,Eshiting! Boshliq bizni chaqiryapti.,"Present Continuous, hozir bo’layotgan ish"
+615,7,I’m working from home this week.,Bu hafta uydan ishlayapman.,"Present Continuous, vaqtincha holat"
+616,7,She is staying in Samarkand for a month.,U bir oy Samarqandda turibdi.,"Present Continuous, vaqtincha holat"
+617,7,He is working at a bank these days.,U shu kunlarda bankda ishlayapti.,"Present Continuous, vaqtincha holat"
+618,7,We’re using a new program this month.,Shu oy yangi dasturdan foydalanyapmiz.,"Present Continuous, vaqtincha holat"
+619,7,I’m living with my parents at the moment.,Hozircha ota-onam bilan yashayapman.,"Present Continuous, vaqtincha holat"
+620,7,She’s helping her father in the shop this summer.,U shu yozda otasiga do’konda yordam beryapti.,"Present Continuous, vaqtincha holat"
+621,7,They are working two shifts this week.,Ular shu hafta ikki smenada ishlayapti.,"Present Continuous, vaqtincha holat"
+622,7,My brother is studying and working at the same time.,"Akam bir vaqtda ham o’qiyapti, ham ishlayapti.","Present Continuous, vaqtincha holat"
+623,7,He’s driving a taxi until he finds a new job.,U yangi ish topguncha taksi haydayapti.,"Present Continuous, vaqtincha holat"
+624,7,I’m learning a new framework this month.,Shu oy yangi framework o’rganyapman.,"Present Continuous, vaqtincha holat"
+625,7,The shop is selling winter clothes now.,Do’kon hozir qishki kiyim sotyapti.,"Present Continuous, vaqtincha holat"
+626,7,The office is using a temporary address.,Ofis vaqtincha manzildan foydalanyapti.,"Present Continuous, vaqtincha holat"
+627,7,More people are shopping online these days.,Shu kunlarda ko’proq odam onlayn xarid qilyapti.,"Present Continuous, trend va jarayon"
+628,7,Prices are rising.,Narxlar ko’tarilyapti.,"Present Continuous, trend va jarayon"
+629,7,Online business is growing fast.,Onlayn biznes tez o’syapti.,"Present Continuous, trend va jarayon"
+630,7,The market is changing quickly.,Bozor tez o’zgaryapti.,"Present Continuous, trend va jarayon"
+631,7,Many people are learning English nowadays.,Hozir ko’p odam ingliz tilini o’rganyapti.,"Present Continuous, trend va jarayon"
+632,7,Companies are hiring more programmers.,Kompaniyalar ko’proq dasturchi yollayapti.,"Present Continuous, trend va jarayon"
+633,7,Our sales are going up this year.,Shu yil savdomiz oshyapti.,"Present Continuous, trend va jarayon"
+634,7,Customers are choosing cheaper products.,Mijozlar arzonroq mahsulotlarni tanlayapti.,"Present Continuous, trend va jarayon"
+635,7,Small businesses are getting more popular.,Kichik bizneslar ommalashyapti.,"Present Continuous, trend va jarayon"
+636,7,More teachers are using AI tools.,Ko’proq o’qituvchi sun’iy intellekt vositalaridan foydalanyapti.,"Present Continuous, trend va jarayon"
+637,7,The economy is developing fast.,Iqtisodiyot tez rivojlanyapti.,"Present Continuous, trend va jarayon"
+638,7,Fewer people are paying with cash.,Kamroq odam naqd to’layapti.,"Present Continuous, trend va jarayon"
+639,7,I’m meeting a client tomorrow at 10.,Ertaga soat 10 da mijoz bilan uchrashaman.,"Present Continuous, kelishilgan reja"
+640,7,We’re having a meeting on Monday.,Dushanba kuni yig’ilishimiz bor.,"Present Continuous, kelishilgan reja"
+641,7,She’s flying to Almaty next week.,U kelasi hafta Almatiga uchadi.,"Present Continuous, kelishilgan reja"
+642,7,I’m seeing the manager this afternoon.,Bugun tushdan keyin menejer bilan uchrashaman.,"Present Continuous, kelishilgan reja"
+643,7,They’re opening a new branch in May.,Ular maydan yangi filial ochadi.,"Present Continuous, kelishilgan reja"
+644,7,He’s starting a new job on Sunday.,U yakshanba kuni yangi ishni boshlaydi.,"Present Continuous, kelishilgan reja"
+645,7,We’re signing the contract on Friday.,Shartnomani juma kuni imzolaymiz.,"Present Continuous, kelishilgan reja"
+646,7,I’m having a lesson with my teacher tonight.,Bugun kechqurun o’qituvchim bilan darsim bor.,"Present Continuous, kelishilgan reja"
+647,7,She’s visiting a supplier next week.,U kelasi hafta yetkazib beruvchiga boradi.,"Present Continuous, kelishilgan reja"
+648,7,We’re launching the website tomorrow.,Saytni ertaga ishga tushiramiz.,"Present Continuous, kelishilgan reja"
+649,7,The delivery is arriving at 5 p.m.,Yetkazib berish soat 17:00 da keladi.,"Present Continuous, kelishilgan reja"
+650,7,They’re moving to a new office next month.,Ular kelasi oy yangi ofisga ko’chadi.,"Present Continuous, kelishilgan reja"
+651,7,I’m running a small business.,Kichik biznes yuritayapman.,"Present Continuous, biznes yuritish"
+652,7,We’re selling clothes online.,Onlayn kiyim sotyapmiz.,"Present Continuous, biznes yuritish"
+653,7,She’s opening a cafe this year.,U shu yil kafe ochyapti.,"Present Continuous, biznes yuritish"
+654,7,He’s looking for new customers.,U yangi mijozlar qidiryapti.,"Present Continuous, biznes yuritish"
+655,7,We’re building a new website.,Yangi sayt qurayapmiz.,"Present Continuous, biznes yuritish"
+656,7,They’re making a good profit this month.,Ular shu oy yaxshi foyda qilyapti.,"Present Continuous, biznes yuritish"
+657,7,I’m negotiating the price with a supplier.,Yetkazib beruvchi bilan narxni kelishyapman.,"Present Continuous, biznes yuritish"
+658,7,The shop is delivering orders today.,Do’kon bugun buyurtmalarni yetkazyapti.,"Present Continuous, biznes yuritish"
+659,7,She’s advertising her products on Instagram.,U mahsulotlarini Instagramda reklama qilyapti.,"Present Continuous, biznes yuritish"
+660,7,We’re hiring a new salesperson.,Yangi sotuvchi yollayapmiz.,"Present Continuous, biznes yuritish"
+661,7,I’m saving money to start my own business.,O’z biznesimni boshlash uchun pul yig’ayapman.,"Present Continuous, biznes yuritish"
+662,7,They’re testing a new product.,Ular yangi mahsulotni sinab ko’ryapti.,"Present Continuous, biznes yuritish"
+663,7,I’m writing code for a new app.,Yangi ilova uchun kod yozyapman.,"Present Continuous, ish joyida"
+664,7,He’s designing a landing page.,U landing sahifa dizayn qilyapti.,"Present Continuous, ish joyida"
+665,7,She’s checking the students’ homework.,U o’quvchilarning uy vazifasini tekshiryapti.,"Present Continuous, ish joyida"
+666,7,I’m preparing a lesson about history.,Tarix haqida dars tayyorlayapman.,"Present Continuous, ish joyida"
+667,7,The programmer is fixing a bug.,Dasturchi xatoni tuzatyapti.,"Present Continuous, ish joyida"
+668,7,We’re training new employees.,Yangi xodimlarni o’qitayapmiz.,"Present Continuous, ish joyida"
+669,7,The secretary is typing a letter.,Kotiba xat yozyapti.,"Present Continuous, ish joyida"
+670,7,I’m updating the project.,Loyihani yangilayapman.,"Present Continuous, ish joyida"
+671,7,They’re discussing a new plan.,Ular yangi reja muhokama qilyapti.,"Present Continuous, ish joyida"
+672,7,The team is working hard to meet the deadline.,Jamoa muddatga ulgurish uchun qattiq ishlayapti.,"Present Continuous, ish joyida"
+673,7,I’m not working today.,Bugun ishlamayapman.,"Present Continuous, inkor"
+674,7,She isn’t answering the phone.,U telefonga javob bermayapti.,"Present Continuous, inkor"
+675,7,He isn’t listening to me.,U meni tinglamayapti.,"Present Continuous, inkor"
+676,7,We aren’t using that program.,Biz u dasturdan foydalanmayapmiz.,"Present Continuous, inkor"
+677,7,They aren’t selling this product now.,Ular hozir bu mahsulotni sotmayapti.,"Present Continuous, inkor"
+678,7,The shop isn’t opening today.,Do’kon bugun ochilmayapti.,"Present Continuous, inkor"
+679,7,I’m not studying right now.,Hozir o’qimayapman.,"Present Continuous, inkor"
+680,7,The manager isn’t sitting in his office.,Menejer o’z xonasida o’tirmayapti.,"Present Continuous, inkor"
+681,7,Are you working now?,Hozir ishlayapsizmi?,"Present Continuous, so’roq"
+682,7,What are you doing?,Nima qilyapsiz?,"Present Continuous, so’roq"
+683,7,Is she talking to a client?,U mijoz bilan gaplashyaptimi?,"Present Continuous, so’roq"
+684,7,Where is he working this month?,U shu oy qayerda ishlayapti?,"Present Continuous, so’roq"
+685,7,Who is calling you?,Sizga kim qo’ng’iroq qilyapti?,"Present Continuous, so’roq"
+686,7,Why are you leaving early?,Nega erta ketyapsiz?,"Present Continuous, so’roq"
+687,7,What are they selling?,Ular nima sotyapti?,"Present Continuous, so’roq"
+688,7,Are you coming to the meeting tomorrow?,Ertaga yig’ilishga kelasizmi?,"Present Continuous, so’roq"
+689,7,How is your business going?,Biznesingiz qalay ketyapti?,"Present Continuous, so’roq"
+690,7,Is the shop opening today?,Do’kon bugun ochiladimi?,"Present Continuous, so’roq"
+691,7,I work in a shop. / I’m working in a shop this month.,Men do’konda ishlayman. / Shu oy do’konda ishlayapman.,Present Simple vs Present Continuous
+692,7,She teaches history. / She’s teaching a lesson now.,U tarixdan dars beradi. / U hozir dars o’tyapti.,Present Simple vs Present Continuous
+693,7,"He usually works in the office, but today he’s working at home.","U odatda ofisda ishlaydi, lekin bugun uydan ishlayapti.",Present Simple vs Present Continuous
+694,7,I know the answer.,Javobni bilaman.,Present Simple vs Present Continuous
+695,7,I need more customers.,Menga ko’proq mijoz kerak.,Present Simple vs Present Continuous
+696,7,I’m studying English these days.,Shu kunlarda ingliz tilini o’rganyapman.,"Present Continuous, o’zim haqimda"
+697,7,I’m preparing for the IELTS exam.,IELTS imtihoniga tayyorlanyapman.,"Present Continuous, o’zim haqimda"
+698,7,I’m building my own product.,O’z mahsulotimni qurayapman.,"Present Continuous, o’zim haqimda"
+699,7,I’m getting better every week.,Har hafta yaxshilanyapman.,"Present Continuous, o’zim haqimda"
+700,7,I’m becoming a better teacher.,Yaxshiroq o’qituvchi bo’lyapman.,"Present Continuous, o’zim haqimda"
+701,8,I have visited Samarkand.,Samarqandga borganman.,"Present Perfect, hayotiy tajriba"
+702,8,She has worked in a school.,U maktabda ishlagan.,"Present Perfect, hayotiy tajriba"
+703,8,We have seen this film.,Bu filmni ko’rganmiz.,"Present Perfect, hayotiy tajriba"
+704,8,I have met many teachers.,Ko’p o’qituvchilar bilan uchrashganman.,"Present Perfect, hayotiy tajriba"
+705,8,He has taught English.,U ingliz tilidan dars bergan.,"Present Perfect, hayotiy tajriba"
+706,8,I have never been to London.,Hech qachon Londonda bo’lmaganman.,"Present Perfect, hayotiy tajriba"
+707,8,She has never eaten sushi.,U hech qachon sushi yemagan.,"Present Perfect, hayotiy tajriba"
+708,8,They have never flown in a plane.,Ular hech qachon samolyotda uchmagan.,"Present Perfect, hayotiy tajriba"
+709,8,I have read this book twice.,Bu kitobni ikki marta o’qiganman.,"Present Perfect, hayotiy tajriba"
+710,8,This is the first time I have spoken English for two minutes.,Inglizchada ikki daqiqa gapirishim bu birinchi marta.,"Present Perfect, hayotiy tajriba"
+711,8,I have worked here since 2024.,Bu yerda 2024 yildan beri ishlayman.,"Present Perfect, for / since"
+712,8,She has worked here for three years.,U bu yerda uch yildan beri ishlaydi.,"Present Perfect, for / since"
+713,8,He has been a teacher for ten years.,U o’n yildan beri o’qituvchi.,"Present Perfect, for / since"
+714,8,We have known each other since 2020.,Biz bir-birimizni 2020 yildan beri bilamiz.,"Present Perfect, for / since"
+715,8,I have lived in Tashkent for five years.,Besh yildan beri Toshkentda yashayman.,"Present Perfect, for / since"
+716,8,They have had this shop since 2018.,Ularning bu do’koni 2018 yildan beri bor.,"Present Perfect, for / since"
+717,8,He has written code for four years.,U to’rt yildan beri kod yozadi.,"Present Perfect, for / since"
+718,8,She has been a manager since January.,U yanvardan beri menejer.,"Present Perfect, for / since"
+719,8,How long have you worked here?,Bu yerda qancha vaqtdan beri ishlaysiz?,"Present Perfect, for / since"
+720,8,I have studied English for two months.,Ikki oydan beri ingliz tilini o’rganyapman.,"Present Perfect, for / since"
+721,8,I have finished the first seven weeks of the course.,Kursning dastlabki yetti haftasini tugatdim.,"Present Perfect, ta’lim va o’qish"
+722,8,She has passed the exam.,U imtihondan o’tdi.,"Present Perfect, ta’lim va o’qish"
+723,8,He has learned 500 new words.,U 500 ta yangi so’z o’rgandi.,"Present Perfect, ta’lim va o’qish"
+724,8,We have studied this grammar.,Bu grammatikani o’rganganmiz.,"Present Perfect, ta’lim va o’qish"
+725,8,I have read two chapters.,Ikkita bobni o’qiganman.,"Present Perfect, ta’lim va o’qish"
+726,8,The students have done their homework.,O’quvchilar uy vazifasini bajarishgan.,"Present Perfect, ta’lim va o’qish"
+727,8,She has graduated from university.,U universitetni bitirgan.,"Present Perfect, ta’lim va o’qish"
+728,8,I have completed the course.,Kursni tugatganman.,"Present Perfect, ta’lim va o’qish"
+729,8,He has taken the IELTS exam twice.,U IELTS imtihonini ikki marta topshirgan.,"Present Perfect, ta’lim va o’qish"
+730,8,I have practiced speaking every day this week.,Shu hafta har kuni gapirishni mashq qildim.,"Present Perfect, ta’lim va o’qish"
+731,8,I have just finished work.,Hozirgina ishni tugatdim.,"Present Perfect, just / already / yet"
+732,8,She has just left.,U hozirgina ketdi.,"Present Perfect, just / already / yet"
+733,8,They have just arrived.,Ular hozirgina yetib keldi.,"Present Perfect, just / already / yet"
+734,8,I have already eaten lunch.,Tushlikni allaqachon qilganman.,"Present Perfect, just / already / yet"
+735,8,He has already paid the bill.,U hisobni allaqachon to’lagan.,"Present Perfect, just / already / yet"
+736,8,We have already booked the tickets.,Chiptalarni allaqachon bron qilganmiz.,"Present Perfect, just / already / yet"
+737,8,Have you finished yet?,Tugatdingizmi?,"Present Perfect, just / already / yet"
+738,8,I haven’t finished yet.,Hali tugatganim yo’q.,"Present Perfect, just / already / yet"
+739,8,She hasn’t called me yet.,U hali menga qo’ng’iroq qilmadi.,"Present Perfect, just / already / yet"
+740,8,Has the lesson started yet?,Dars boshlandimi?,"Present Perfect, just / already / yet"
+741,8,I have lost my keys.,Kalitlarimni yo’qotganman.,"Present Perfect, natija hozir ko’rinib turibdi"
+742,8,She has broken her phone.,U telefonini sindirgan.,"Present Perfect, natija hozir ko’rinib turibdi"
+743,8,He has forgotten his password.,U parolini unutgan.,"Present Perfect, natija hozir ko’rinib turibdi"
+744,8,The shop has closed.,Do’kon yopilgan.,"Present Perfect, natija hozir ko’rinib turibdi"
+745,8,I have cut my finger.,Barmog’imni kesib olganman.,"Present Perfect, natija hozir ko’rinib turibdi"
+746,8,The price has gone up.,Narx ko’tarilgan.,"Present Perfect, natija hozir ko’rinib turibdi"
+747,8,My English has improved.,Inglizchamni yaxshilanib qoldi.,"Present Perfect, natija hozir ko’rinib turibdi"
+748,8,She has bought a new laptop.,U yangi noutbuk sotib olgan.,"Present Perfect, natija hozir ko’rinib turibdi"
+749,8,They have moved to a new house.,Ular yangi uyga ko’chib o’tgan.,"Present Perfect, natija hozir ko’rinib turibdi"
+750,8,The bus has left.,Avtobus ketib bo’lgan.,"Present Perfect, natija hozir ko’rinib turibdi"
+751,8,I have been to Bukhara many times.,Buxoroda ko’p marta bo’lganman.,"Present Perfect, been / gone"
+752,8,She has been to Turkey.,U Turkiyada bo’lgan.,"Present Perfect, been / gone"
+753,8,He has gone to Almaty.,"U Almatiga ketgan, hozir u yerda.","Present Perfect, been / gone"
+754,8,Where have you been?,Qayerda eding?,"Present Perfect, been / gone"
+755,8,I have been to the market.,Bozordan qaytdim.,"Present Perfect, been / gone"
+756,8,They have gone to the airport.,Ular aeroportga ketgan.,"Present Perfect, been / gone"
+757,8,Have you ever been to Kazakhstan?,Hech Qozog’istonda bo’lganmisiz?,"Present Perfect, been / gone"
+758,8,We have visited three countries.,Uchta davlatga borganmiz.,"Present Perfect, been / gone"
+759,8,She has traveled a lot.,U ko’p sayohat qilgan.,"Present Perfect, been / gone"
+760,8,I have never been abroad.,Hech qachon chet elda bo’lmaganman.,"Present Perfect, been / gone"
+761,8,Technology has changed education.,Texnologiya ta’limni o’zgartirdi.,"Present Perfect, hayotdagi o’zgarishlar"
+762,8,Many things have changed in my life.,Hayotimda ko’p narsa o’zgardi.,"Present Perfect, hayotdagi o’zgarishlar"
+763,8,The city has grown quickly.,Shahar tez o’sdi.,"Present Perfect, hayotdagi o’zgarishlar"
+764,8,Online learning has become popular.,Onlayn ta’lim ommalashdi.,"Present Perfect, hayotdagi o’zgarishlar"
+765,8,I have become more confident.,Men ancha ishonchli bo’ldim.,"Present Perfect, hayotdagi o’zgarishlar"
+766,8,My speaking has improved this month.,Shu oy gapirishim yaxshilandi.,"Present Perfect, hayotdagi o’zgarishlar"
+767,8,Prices have risen this year.,Shu yil narxlar ko’tarildi.,"Present Perfect, hayotdagi o’zgarishlar"
+768,8,People have started to use AI.,Odamlar sun’iy intellektdan foydalana boshladi.,"Present Perfect, hayotdagi o’zgarishlar"
+769,8,She has changed her job.,U ishini almashtirgan.,"Present Perfect, hayotdagi o’zgarishlar"
+770,8,He has become a better teacher.,U yaxshiroq o’qituvchi bo’lgan.,"Present Perfect, hayotdagi o’zgarishlar"
+771,8,I haven’t seen him today.,Bugun uni ko’rmadim.,"Present Perfect, inkor"
+772,8,She hasn’t eaten breakfast.,U nonushta qilmagan.,"Present Perfect, inkor"
+773,8,We haven’t met before.,Biz ilgari uchrashmaganmiz.,"Present Perfect, inkor"
+774,8,They haven’t paid yet.,Ular hali to’lamagan.,"Present Perfect, inkor"
+775,8,He hasn’t done his homework.,U uy vazifasini bajarmagan.,"Present Perfect, inkor"
+776,8,I haven’t been to the clinic this year.,Shu yil poliklinikaga bormaganman.,"Present Perfect, inkor"
+777,8,The teacher hasn’t arrived yet.,O’qituvchi hali kelmadi.,"Present Perfect, inkor"
+778,8,I haven’t had time.,Vaqtim bo’lmadi.,"Present Perfect, inkor"
+779,8,She hasn’t answered my message.,U xabarimga javob bermadi.,"Present Perfect, inkor"
+780,8,I haven’t studied today.,Bugun o’qimadim.,"Present Perfect, inkor"
+781,8,Have you ever taught a lesson?,Hech dars o’tganmisiz?,"Present Perfect, so’roq"
+782,8,Has she finished her work?,U ishini tugatdimi?,"Present Perfect, so’roq"
+783,8,How long have you studied English?,Ingliz tilini qancha vaqtdan beri o’rganasiz?,"Present Perfect, so’roq"
+784,8,What have you done today?,Bugun nima qildingiz?,"Present Perfect, so’roq"
+785,8,Have they arrived yet?,Ular yetib keldimi?,"Present Perfect, so’roq"
+786,8,Where have you worked before?,Ilgari qayerda ishlagansiz?,"Present Perfect, so’roq"
+787,8,Have you ever tried Uzbek plov?,Hech o’zbek palovini tatib ko’rganmisiz?,"Present Perfect, so’roq"
+788,8,How many words have you learned?,Nechta so’z o’rgandingiz?,"Present Perfect, so’roq"
+789,8,Why have you changed your plan?,Nega rejangizni o’zgartirdingiz?,"Present Perfect, so’roq"
+790,8,Who has taken my pen?,Qalamimni kim olgan?,"Present Perfect, so’roq"
+791,8,I have visited Samarkand. / I visited Samarkand in 2023.,Samarqandga borganman. / 2023 yilda Samarqandga bordim.,Past Simple vs Present Perfect
+792,8,She has lost her phone. / She lost it yesterday.,U telefonini yo’qotgan. / Uni kecha yo’qotdi.,Past Simple vs Present Perfect
+793,8,Have you seen the doctor? / Did you see the doctor yesterday?,Shifokorga borganmisiz? / Kecha shifokorga bordingizmi?,Past Simple vs Present Perfect
+794,8,I have lived here for five years. / I lived in Bukhara for five years.,"Bu yerda besh yildan beri yashayman. / Buxoroda besh yil yashaganman, endi yo’q.",Past Simple vs Present Perfect
+795,8,He has worked here since 2020. / He worked there in 2020.,U bu yerda 2020 yildan beri ishlaydi. / U 2020 yilda u yerda ishlagan.,Past Simple vs Present Perfect
+796,8,I have studied English for eight weeks.,Sakkiz haftadan beri ingliz tilini o’rganyapman.,Past Simple vs Present Perfect
+797,8,I have learned a lot of grammar.,Ko’p grammatika o’rgandim.,Past Simple vs Present Perfect
+798,8,I have started to speak more.,Ko’proq gapira boshladim.,Past Simple vs Present Perfect
+799,8,"I have worked hard, and I will keep going.",Qattiq ishladim va davom etaman.,Past Simple vs Present Perfect
+800,8,"I haven’t reached my goal yet, but I am getting closer.","Maqsadimga hali yetmadim, lekin yaqinlashyapman.",Past Simple vs Present Perfect
+801,9,"I can speak Uzbek, Russian and a little English.","Men o’zbekcha, ruscha va ozgina inglizcha gapira olaman.","can, qobiliyat"
+802,9,She can cook plov very well.,U palovni juda yaxshi pishira oladi.,"can, qobiliyat"
+803,9,He can write code in JavaScript.,U JavaScript da kod yoza oladi.,"can, qobiliyat"
+804,9,We can help you with the lesson.,Dars bo’yicha sizga yordam bera olamiz.,"can, qobiliyat"
+805,9,They can swim.,Ular suza oladi.,"can, qobiliyat"
+806,9,I can’t drive a car.,Mashina haydashni bilmayman.,"can, qobiliyat"
+807,9,She can’t come to the meeting today.,U bugun yig’ilishga kela olmaydi.,"can, qobiliyat"
+808,9,He can’t speak English fluently yet.,U hali inglizchani ravon gapira olmaydi.,"can, qobiliyat"
+809,9,Can you read this text?,Bu matnni o’qiy olasizmi?,"can, qobiliyat"
+810,9,"Yes, I can. / No, I can’t.","Ha, o’qiy olaman. / Yo’q, o’qiy olmayman.","can, qobiliyat"
+811,9,I could read when I was five.,Besh yoshimda o’qiy olardim.,"could, o’tgan zamon qobiliyati va iltimos"
+812,9,She could swim when she was a child.,U bola paytida suza olardi.,"could, o’tgan zamon qobiliyati va iltimos"
+813,9,We couldn’t find the key yesterday.,Kecha kalitni topa olmadik.,"could, o’tgan zamon qobiliyati va iltimos"
+814,9,He couldn’t sleep last night.,U kecha uxlay olmadi.,"could, o’tgan zamon qobiliyati va iltimos"
+815,9,"Could you help me, please?",Menga yordam bera olasizmi?,"could, o’tgan zamon qobiliyati va iltimos"
+816,9,"Could you repeat that, please?",Buni takrorlay olasizmi?,"could, o’tgan zamon qobiliyati va iltimos"
+817,9,Could I ask a question?,Savol bersam bo’ladimi?,"could, o’tgan zamon qobiliyati va iltimos"
+818,9,Could you speak more slowly?,Sekinroq gapira olasizmi?,"could, o’tgan zamon qobiliyati va iltimos"
+819,9,Could you tell me the way to the bank?,Bankka yo’lni ayta olasizmi?,"could, o’tgan zamon qobiliyati va iltimos"
+820,9,I couldn’t understand the audio at first.,Audioni avval tushunmadim.,"could, o’tgan zamon qobiliyati va iltimos"
+821,9,Can I open the window?,Derazani ochsam bo’ladimi?,"can / may, ruxsat"
+822,9,Can I use your phone?,Telefoningizdan foydalansam bo’ladimi?,"can / may, ruxsat"
+823,9,May I come in?,Kirsam bo’ladimi?,"can / may, ruxsat"
+824,9,May I sit here?,Shu yerga o’tirsam bo’ladimi?,"can / may, ruxsat"
+825,9,You can park here.,Bu yerga mashina qo’ysangiz bo’ladi.,"can / may, ruxsat"
+826,9,You can’t smoke in the hospital.,Kasalxonada chekish mumkin emas.,"can / may, ruxsat"
+827,9,Students can use the library until 8 p.m.,Talabalar kutubxonadan soat 8 gacha foydalana oladi.,"can / may, ruxsat"
+828,9,Can I pay by card?,Karta bilan to’lasam bo’ladimi?,"can / may, ruxsat"
+829,9,Can we take photos here?,Bu yerda rasmga olsak bo’ladimi?,"can / may, ruxsat"
+830,9,You may leave when you finish the test.,Testni tugatganingizda ketishingiz mumkin.,"can / may, ruxsat"
+831,9,You should drink more water.,Ko’proq suv ichishingiz kerak.,"should / shouldn’t, maslahat"
+832,9,You should sleep at least seven hours.,Kamida yetti soat uxlashingiz kerak.,"should / shouldn’t, maslahat"
+833,9,She should see a doctor.,U shifokorga borishi kerak.,"should / shouldn’t, maslahat"
+834,9,We should leave early.,Erta ketishimiz kerak.,"should / shouldn’t, maslahat"
+835,9,You shouldn’t eat so much sugar.,Juda ko’p shakar yemasligingiz kerak.,"should / shouldn’t, maslahat"
+836,9,He shouldn’t work all night.,U butun tun ishlamasligi kerak.,"should / shouldn’t, maslahat"
+837,9,You should practice speaking every day.,Har kuni gapirishni mashq qilishingiz kerak.,"should / shouldn’t, maslahat"
+838,9,I should study more.,Ko’proq o’qishim kerak.,"should / shouldn’t, maslahat"
+839,9,Should I call the manager?,Menejerga qo’ng’iroq qilishim kerakmi?,"should / shouldn’t, maslahat"
+840,9,What should I do?,Nima qilishim kerak?,"should / shouldn’t, maslahat"
+841,9,I have to get up at 6 a.m. on weekdays.,Ish kunlari ertalab soat 6 da turishim kerak.,"must / have to, majburiyat"
+842,9,She has to wear a uniform at work.,U ishda forma kiyishi kerak.,"must / have to, majburiyat"
+843,9,We have to finish this project by Friday.,Bu loyihani juma kunigacha tugatishimiz kerak.,"must / have to, majburiyat"
+844,9,You must show your passport at the airport.,Aeroportda pasportingizni ko’rsatishingiz shart.,"must / have to, majburiyat"
+845,9,Drivers must stop at a red light.,Haydovchilar qizil chiroqda to’xtashi shart.,"must / have to, majburiyat"
+846,9,Students must arrive on time.,Talabalar o’z vaqtida kelishi shart.,"must / have to, majburiyat"
+847,9,I must call my mother tonight.,Bugun kechqurun onamga qo’ng’iroq qilishim kerak.,"must / have to, majburiyat"
+848,9,He has to pay the bill today.,U hisobni bugun to’lashi kerak.,"must / have to, majburiyat"
+849,9,Do you have to work on Saturdays?,Shanba kunlari ishlashingiz kerakmi?,"must / have to, majburiyat"
+850,9,Does she have to wear a uniform?,U forma kiyishi kerakmi?,"must / have to, majburiyat"
+851,9,You mustn’t smoke here.,Bu yerda chekish mumkin emas.,"mustn’t / don’t have to, taqiq va majburiy emas"
+852,9,You mustn’t use your phone during the exam.,Imtihon paytida telefondan foydalanish mumkin emas.,"mustn’t / don’t have to, taqiq va majburiy emas"
+853,9,Children mustn’t play near the road.,Bolalar yo’l yonida o’ynamasligi kerak.,"mustn’t / don’t have to, taqiq va majburiy emas"
+854,9,You mustn’t forget your passport.,Pasportingizni unutmasligingiz kerak.,"mustn’t / don’t have to, taqiq va majburiy emas"
+855,9,I don’t have to get up early on Sunday.,Yakshanba kuni erta turishim shart emas.,"mustn’t / don’t have to, taqiq va majburiy emas"
+856,9,She doesn’t have to work on weekends.,U dam olish kunlari ishlashi shart emas.,"mustn’t / don’t have to, taqiq va majburiy emas"
+857,9,We don’t have to pay for parking.,Mashina qo’yish uchun to’lashimiz shart emas.,"mustn’t / don’t have to, taqiq va majburiy emas"
+858,9,You don’t have to come if you are busy.,"Band bo’lsangiz, kelishingiz shart emas.","mustn’t / don’t have to, taqiq va majburiy emas"
+859,9,He didn’t have to wait long.,U uzoq kutishi shart bo’lmadi.,"mustn’t / don’t have to, taqiq va majburiy emas"
+860,9,You mustn’t be late for the lesson.,Darsga kech qolmasligingiz kerak.,"mustn’t / don’t have to, taqiq va majburiy emas"
+861,9,It might rain tomorrow.,Ertaga yomg’ir yog’ishi mumkin.,"may / might, ehtimol"
+862,9,She may be at home now.,U hozir uyda bo’lishi mumkin.,"may / might, ehtimol"
+863,9,He might come later.,U keyinroq kelishi mumkin.,"may / might, ehtimol"
+864,9,I may go to Samarkand next month.,Kelasi oy Samarqandga borishim mumkin.,"may / might, ehtimol"
+865,9,They might not know the answer.,Ular javobni bilmasligi mumkin.,"may / might, ehtimol"
+866,9,We may buy a new car this year.,Shu yil yangi mashina sotib olishimiz mumkin.,"may / might, ehtimol"
+867,9,The shop may be closed today.,Do’kon bugun yopiq bo’lishi mumkin.,"may / might, ehtimol"
+868,9,I might take the IELTS exam in June.,IELTS imtihonini iyunda topshirishim mumkin.,"may / might, ehtimol"
+869,9,It may be cold in the evening.,Kechqurun sovuq bo’lishi mumkin.,"may / might, ehtimol"
+870,9,She might not come because she is ill.,U kasal bo’lgani uchun kelmasligi mumkin.,"may / might, ehtimol"
+871,9,Can I help you?,Yordam bera olamanmi?,"Modal, taklif va iltimos"
+872,9,Would you like some tea?,Choy xohlaysizmi?,"Modal, taklif va iltimos"
+873,9,Would you like to sit down?,O’tirishni xohlaysizmi?,"Modal, taklif va iltimos"
+874,9,Shall I open the door?,Eshikni ochaymi?,"Modal, taklif va iltimos"
+875,9,Shall we start the lesson?,Darsni boshlaymizmi?,"Modal, taklif va iltimos"
+876,9,Shall we go to the cafe?,Kafega boramizmi?,"Modal, taklif va iltimos"
+877,9,"I would like a cup of coffee, please.",Bir piyola qahva xohlardim.,"Modal, taklif va iltimos"
+878,9,I’d like to book a table for two.,Ikki kishilik stol bron qilmoqchiman.,"Modal, taklif va iltimos"
+879,9,Would you like to join us?,Bizga qo’shilishni xohlaysizmi?,"Modal, taklif va iltimos"
+880,9,I’d like to speak to the manager.,Menejer bilan gaplashmoqchiman.,"Modal, taklif va iltimos"
+881,9,I can build websites with React.,React bilan sayt qura olaman.,"Modal, ish va o’qish"
+882,9,A good teacher must be patient.,Yaxshi o’qituvchi sabrli bo’lishi shart.,"Modal, ish va o’qish"
+883,9,A programmer has to learn new things all the time.,Dasturchi doim yangi narsalarni o’rganishi kerak.,"Modal, ish va o’qish"
+884,9,You should check your code before you send it.,Kodni yuborishdan oldin tekshirishingiz kerak.,"Modal, ish va o’qish"
+885,9,Teachers must prepare their lessons.,O’qituvchilar darslarini tayyorlashi shart.,"Modal, ish va o’qish"
+886,9,I have to prepare for the IELTS exam.,IELTS imtihoniga tayyorlanishim kerak.,"Modal, ish va o’qish"
+887,9,Employees must arrive on time.,Xodimlar o’z vaqtida kelishi shart.,"Modal, ish va o’qish"
+888,9,You can ask me if you don’t understand.,"Tushunmasangiz, mendan so’rashingiz mumkin.","Modal, ish va o’qish"
+889,9,She could finish the work in two hours.,U ishni ikki soatda tugata oldi.,"Modal, ish va o’qish"
+890,9,I must improve my speaking.,Gapirishimni yaxshilashim kerak.,"Modal, ish va o’qish"
+891,9,What can you do well?,Nimani yaxshi qila olasiz?,"Modal, savol, javob va o’zim haqimda"
+892,9,"Can you speak English? Yes, a little.","Inglizcha gapira olasizmi? Ha, ozgina.","Modal, savol, javob va o’zim haqimda"
+893,9,What do you have to do tomorrow?,Ertaga nima qilishingiz kerak?,"Modal, savol, javob va o’zim haqimda"
+894,9,What should I do to improve my English?,Inglizchamni yaxshilash uchun nima qilishim kerak?,"Modal, savol, javob va o’zim haqimda"
+895,9,I should speak English every day.,Har kuni inglizcha gapirishim kerak.,"Modal, savol, javob va o’zim haqimda"
+896,9,"I can’t speak fluently yet, but I can improve.","Hali ravon gapira olmayman, lekin yaxshilay olaman.","Modal, savol, javob va o’zim haqimda"
+897,9,One day I will be able to teach history in English.,Bir kun kelib tarixdan inglizcha dars bera olaman.,"Modal, savol, javob va o’zim haqimda"
+898,9,"I couldn’t speak English two months ago, but now I can say many sentences.","Ikki oy oldin inglizcha gapira olmasdim, lekin hozir ko’p gap ayta olaman.","Modal, savol, javob va o’zim haqimda"
+899,9,I must keep my study streak every day.,Har kuni o’qish seriyamni saqlashim kerak.,"Modal, savol, javob va o’zim haqimda"
+900,9,"I can do it, and I will reach my goal.",Qila olaman va maqsadimga yetaman.,"Modal, savol, javob va o’zim haqimda"
+901,10,I was working at 5 p.m. yesterday.,Kecha soat 5 da ishlayotgan edim.,"Past Continuous, aniq vaqtdagi jarayon"
+902,10,She was cooking dinner at 7 o’clock.,U soat 7 da kechki ovqat pishirayotgan edi.,"Past Continuous, aniq vaqtdagi jarayon"
+903,10,We were watching TV at 9 last night.,Kecha soat 9 da televizor ko’rayotgan edik.,"Past Continuous, aniq vaqtdagi jarayon"
+904,10,They were sleeping at midnight.,Ular yarim tunda uxlayotgan edi.,"Past Continuous, aniq vaqtdagi jarayon"
+905,10,He was driving to work at 8 this morning.,U bugun ertalab soat 8 da ishga mashinada ketayotgan edi.,"Past Continuous, aniq vaqtdagi jarayon"
+906,10,I was studying English at 10 p.m.,Soat 10 da ingliz tilini o’rganayotgan edim.,"Past Continuous, aniq vaqtdagi jarayon"
+907,10,The students were writing a test at 11 a.m.,O’quvchilar soat 11 da test yozayotgan edi.,"Past Continuous, aniq vaqtdagi jarayon"
+908,10,My mother was washing dishes at that time.,Onam o’sha paytda idish yuvayotgan edi.,"Past Continuous, aniq vaqtdagi jarayon"
+909,10,"At 3 o’clock yesterday, I was sitting in a meeting.",Kecha soat 3 da yig’ilishda o’tirgan edim.,"Past Continuous, aniq vaqtdagi jarayon"
+910,10,"This time last week, we were traveling.",O’tgan hafta shu paytda sayohatda edik.,"Past Continuous, aniq vaqtdagi jarayon"
+911,10,The sun was shining.,Quyosh charaqlab turgan edi.,"Past Continuous, fon manzarasi"
+912,10,It was snowing all morning.,Butun ertalab qor yog’ib turdi.,"Past Continuous, fon manzarasi"
+913,10,The wind was blowing hard.,Shamol qattiq esayotgan edi.,"Past Continuous, fon manzarasi"
+914,10,Children were playing in the park.,Bolalar bog’da o’ynayotgan edi.,"Past Continuous, fon manzarasi"
+915,10,People were walking in the street.,Odamlar ko’chada yurayotgan edi.,"Past Continuous, fon manzarasi"
+916,10,The shop was full of customers.,Do’kon mijozlarga to’la edi.,"Past Continuous, fon manzarasi"
+917,10,Birds were singing in the trees.,Qushlar daraxtlarda sayrayotgan edi.,"Past Continuous, fon manzarasi"
+918,10,Music was playing in the cafe.,Kafeda musiqa chalinayotgan edi.,"Past Continuous, fon manzarasi"
+919,10,The teacher was standing near the board.,O’qituvchi doska yonida turgan edi.,"Past Continuous, fon manzarasi"
+920,10,Everyone was smiling.,Hamma jilmayib turgan edi.,"Past Continuous, fon manzarasi"
+921,10,I was cooking while my sister was cleaning.,"Men ovqat pishirayotganimda, opam tozalayotgan edi.","Past Continuous, while (parallel harakat)"
+922,10,"While he was reading, she was writing.","U o’qiyotganda, u yozayotgan edi.","Past Continuous, while (parallel harakat)"
+923,10,"While we were eating, the kids were watching cartoons.","Biz ovqatlanayotganimizda, bolalar multfilm ko’rayotgan edi.","Past Continuous, while (parallel harakat)"
+924,10,She was talking on the phone while she was walking home.,"U uyga piyoda ketayotib, telefonda gaplashayotgan edi.","Past Continuous, while (parallel harakat)"
+925,10,"While I was studying, my brother was playing games.","Men o’qiyotganimda, akam o’yin o’ynayotgan edi.","Past Continuous, while (parallel harakat)"
+926,10,They were chatting while they were waiting for the bus.,"Ular avtobus kutayotib, suhbatlashayotgan edi.","Past Continuous, while (parallel harakat)"
+927,10,"While the teacher was explaining, the students were taking notes.","O’qituvchi tushuntirayotganda, o’quvchilar yozib olayotgan edi.","Past Continuous, while (parallel harakat)"
+928,10,He was listening to music while he was working.,"U ishlayotib, musiqa tinglayotgan edi.","Past Continuous, while (parallel harakat)"
+929,10,"While I was making tea, he was setting the table.","Men choy tayyorlayotganimda, u dasturxon yozayotgan edi.","Past Continuous, while (parallel harakat)"
+930,10,We were laughing while we were watching the film.,"Film ko’rayotib, kulayotgan edik.","Past Continuous, while (parallel harakat)"
+931,10,I was sleeping when the phone rang.,Telefon jiringlaganda uxlayotgan edim.,"Past Continuous + Past Simple, when (uzilish)"
+932,10,She was cooking when the guests arrived.,Mehmonlar kelganda u ovqat pishirayotgan edi.,"Past Continuous + Past Simple, when (uzilish)"
+933,10,We were having dinner when the lights went out.,Chiroq o’chganda kechki ovqat qilayotgan edik.,"Past Continuous + Past Simple, when (uzilish)"
+934,10,He was walking home when it started to rain.,Yomg’ir boshlanganda u uyga ketayotgan edi.,"Past Continuous + Past Simple, when (uzilish)"
+935,10,I was reading when someone knocked on the door.,Kimdir eshikni taqillatganda o’qiyotgan edim.,"Past Continuous + Past Simple, when (uzilish)"
+936,10,They were talking when the teacher came in.,O’qituvchi kirganda ular gaplashayotgan edi.,"Past Continuous + Past Simple, when (uzilish)"
+937,10,I was crossing the street when I saw my friend.,Do’stimni ko’rganimda ko’chadan o’tayotgan edim.,"Past Continuous + Past Simple, when (uzilish)"
+938,10,She was working when her boss called.,Boshlig’i qo’ng’iroq qilganda u ishlayotgan edi.,"Past Continuous + Past Simple, when (uzilish)"
+939,10,The students were writing when the bell rang.,Qo’ng’iroq chalinganda o’quvchilar yozayotgan edi.,"Past Continuous + Past Simple, when (uzilish)"
+940,10,I was taking a shower when the doorbell rang.,Eshik qo’ng’irog’i chalinganda dush qabul qilayotgan edim.,"Past Continuous + Past Simple, when (uzilish)"
+941,10,"While I was walking to work, I met my teacher.","Ishga ketayotib, o’qituvchimni uchratdim.","Past Continuous + Past Simple, while (uzilish)"
+942,10,"While she was cooking, she cut her finger.","Ovqat pishirayotib, u barmog’ini kesib oldi.","Past Continuous + Past Simple, while (uzilish)"
+943,10,"While we were driving, we saw an accident.","Mashinada ketayotib, hodisani ko’rdik.","Past Continuous + Past Simple, while (uzilish)"
+944,10,"While he was studying, his phone rang.","U o’qiyotganda, telefoni jiringladi.","Past Continuous + Past Simple, while (uzilish)"
+945,10,"While I was waiting for the bus, I lost my wallet.","Avtobus kutayotib, hamyonimni yo’qotdim.","Past Continuous + Past Simple, while (uzilish)"
+946,10,"While they were playing football, it began to rain.","Ular futbol o’ynayotganda, yomg’ir boshlandi.","Past Continuous + Past Simple, while (uzilish)"
+947,10,"While I was shopping, I met an old friend.","Xarid qilayotib, eski do’stimni uchratdim.","Past Continuous + Past Simple, while (uzilish)"
+948,10,"While she was talking, her phone fell.","U gaplashayotganda, telefoni tushib ketdi.","Past Continuous + Past Simple, while (uzilish)"
+949,10,"While I was learning to code, I discovered a new passion.","Kod yozishni o’rganayotib, yangi qiziqish topdim.","Past Continuous + Past Simple, while (uzilish)"
+950,10,"While we were traveling, we made many friends.","Sayohat qilayotib, ko’p do’st orttirdik.","Past Continuous + Past Simple, while (uzilish)"
+951,10,We were traveling to Samarkand when the car broke down.,Samarqandga ketayotganimizda mashina buzildi.,"Past Continuous, sayohat va hikoya"
+952,10,The train was moving slowly.,Poyezd sekin harakatlanayotgan edi.,"Past Continuous, sayohat va hikoya"
+953,10,The passengers were waiting at the station.,Yo’lovchilar bekatda kutayotgan edi.,"Past Continuous, sayohat va hikoya"
+954,10,I was looking at the map when a man asked me for help.,"Xaritaga qarayotganimda, bir kishi mendan yordam so’radi.","Past Continuous, sayohat va hikoya"
+955,10,We were walking through the old city when it began to rain.,"Eski shahar bo’ylab yurayotganimizda, yomg’ir boshlandi.","Past Continuous, sayohat va hikoya"
+956,10,The guide was telling us about the history of Registan.,Gid bizga Registon tarixi haqida gapirayotgan edi.,"Past Continuous, sayohat va hikoya"
+957,10,Tourists were taking photos of the old buildings.,Sayyohlar qadimiy binolarni rasmga olayotgan edi.,"Past Continuous, sayohat va hikoya"
+958,10,I was sitting on the bus when I fell asleep.,"Avtobusda o’tirib, uxlab qoldim.","Past Continuous, sayohat va hikoya"
+959,10,The plane was landing when I woke up.,Uyg’onganimda samolyot qo’nayotgan edi.,"Past Continuous, sayohat va hikoya"
+960,10,We were having lunch in a small cafe when we met our old teacher.,"Kichik kafeda tushlik qilayotganimizda, eski o’qituvchimizni uchratdik.","Past Continuous, sayohat va hikoya"
+961,10,I was preparing a lesson when my friend called.,"Dars tayyorlayotganimda, do’stim qo’ng’iroq qildi.","Past Continuous, ish va o’qish"
+962,10,She was typing a report when the computer crashed.,"U hisobot yozayotganda, kompyuter qotib qoldi.","Past Continuous, ish va o’qish"
+963,10,He was fixing a bug when the power went off.,"U xatoni tuzatayotganda, elektr o’chdi.","Past Continuous, ish va o’qish"
+964,10,The manager was talking to a client when I arrived.,Men kelganimda menejer mijoz bilan gaplashayotgan edi.,"Past Continuous, ish va o’qish"
+965,10,I was writing code all evening.,Butun kechqurun kod yozdim.,"Past Continuous, ish va o’qish"
+966,10,We were discussing the project when the boss came in.,"Loyihani muhokama qilayotganimizda, boshliq kirdi.","Past Continuous, ish va o’qish"
+967,10,The students were doing homework while the teacher was checking tests.,"O’quvchilar uy vazifasini bajarayotganda, o’qituvchi testlarni tekshirayotgan edi.","Past Continuous, ish va o’qish"
+968,10,I was practicing speaking when my phone died.,"Gapirishni mashq qilayotganimda, telefonim o’chib qoldi.","Past Continuous, ish va o’qish"
+969,10,She was teaching history when the fire alarm rang.,"U tarixdan dars o’tayotganda, yong’in signali chaldi.","Past Continuous, ish va o’qish"
+970,10,They were working hard all last week.,Ular o’tgan hafta butun hafta qattiq ishladi.,"Past Continuous, ish va o’qish"
+971,10,I wasn’t sleeping at 10 p.m.,Soat 10 da uxlamayotgan edim.,"Past Continuous, inkor"
+972,10,She wasn’t listening to the teacher.,U o’qituvchini tinglamayotgan edi.,"Past Continuous, inkor"
+973,10,We weren’t watching TV.,Televizor ko’rmayotgan edik.,"Past Continuous, inkor"
+974,10,He wasn’t working yesterday afternoon.,U kecha tushdan keyin ishlamayotgan edi.,"Past Continuous, inkor"
+975,10,They weren’t waiting for us.,Ular bizni kutmayotgan edi.,"Past Continuous, inkor"
+976,10,It wasn’t raining when we left.,Biz chiqqanimizda yomg’ir yog’mayotgan edi.,"Past Continuous, inkor"
+977,10,I wasn’t paying attention.,E’tibor bermayotgan edim.,"Past Continuous, inkor"
+978,10,The kids weren’t playing outside.,Bolalar tashqarida o’ynamayotgan edi.,"Past Continuous, inkor"
+979,10,Was it raining?,Yomg’ir yog’ayotgan edimi?,"Past Continuous, so’roq"
+980,10,Were you sleeping at 11 p.m.?,Soat 11 da uxlayotgan edingizmi?,"Past Continuous, so’roq"
+981,10,What were you doing when I called?,Men qo’ng’iroq qilganimda nima qilayotgan edingiz?,"Past Continuous, so’roq"
+982,10,Where were they going?,Ular qayerga ketayotgan edi?,"Past Continuous, so’roq"
+983,10,Who was she talking to?,U kim bilan gaplashayotgan edi?,"Past Continuous, so’roq"
+984,10,Why were you laughing?,Nega kulayotgan edingiz?,"Past Continuous, so’roq"
+985,10,Was he driving fast?,U tez haydayotgan edimi?,"Past Continuous, so’roq"
+986,10,What was the teacher explaining?,O’qituvchi nimani tushuntirayotgan edi?,"Past Continuous, so’roq"
+987,10,How were you feeling?,O’zingizni qanday his qilayotgan edingiz?,"Past Continuous, so’roq"
+988,10,Were they waiting for the bus?,Ular avtobus kutayotgan edimi?,"Past Continuous, so’roq"
+989,10,I was reading a book at 8. / I read a book last night.,Soat 8 da kitob o’qiyotgan edim. / Kecha kitobni o’qib tugatdim.,Past Simple vs Past Continuous
+990,10,She was cooking plov when I arrived. / She cooked plov for the guests.,Men kelganimda u palov pishirayotgan edi. / U mehmonlar uchun palov pishirdi.,Past Simple vs Past Continuous
+991,10,We were living in Bukhara in 2020. / We lived in Bukhara for ten years.,2020 yilda Buxoroda yashayotgan edik. / Buxoroda o’n yil yashadik.,Past Simple vs Past Continuous
+992,10,I knew the answer.,Javobni bilardim.,Past Simple vs Past Continuous
+993,10,I wanted a cup of tea.,Bir piyola choy xohlardim.,Past Simple vs Past Continuous
+994,10,"When I came home, my mother was cooking. / When I came home, my mother cooked dinner.",Uyga kelganimda onam ovqat pishirayotgan edi. / Uyga kelganimdan keyin onam kechki ovqat pishirdi.,Past Simple vs Past Continuous
+995,10,"When he called, I was sleeping. / When he called, I woke up.",U qo’ng’iroq qilganda uxlayotgan edim. / U qo’ng’iroq qilganda uyg’ondim.,Past Simple vs Past Continuous
+996,10,"Two months ago, I wasn’t studying English every day.",Ikki oy oldin har kuni ingliz tili o’rganmayotgan edim.,Past Simple vs Past Continuous
+997,10,"This time yesterday, I was studying English.",Kecha shu paytda ingliz tili o’rganayotgan edim.,Past Simple vs Past Continuous
+998,10,"While I was studying today, I learned a new tense.","Bugun o’qiyotib, yangi zamonni o’rgandim.",Past Simple vs Past Continuous
+999,10,I was thinking about my goal when I started this course.,Bu kursni boshlaganimda maqsadim haqida o’ylayotgan edim.,Past Simple vs Past Continuous
+1000,10,"I was dreaming about teaching in English, and now I am working for it.","Inglizcha dars berishni orzu qilayotgan edim, hozir esa buning uchun ishlayapman.",Past Simple vs Past Continuous
+1001,11,My brother is taller than me.,Akam mendan baland.,"Comparative, odamlar va oila"
+1002,11,She is younger than her sister.,U opasidan yosh.,"Comparative, odamlar va oila"
+1003,11,My father is older than my mother.,Otam onamdan katta.,"Comparative, odamlar va oila"
+1004,11,He is stronger than his friend.,U do’stidan kuchli.,"Comparative, odamlar va oila"
+1005,11,This boy is faster than that boy.,Bu bola u boladan tez.,"Comparative, odamlar va oila"
+1006,11,My sister is smarter than me.,Opam mendan aqlli.,"Comparative, odamlar va oila"
+1007,11,He is heavier than me.,U mendan og’ir.,"Comparative, odamlar va oila"
+1008,11,She is happier today than yesterday.,U bugun kechagidan xursandroq.,"Comparative, odamlar va oila"
+1009,11,My cousin is busier than me.,Amakivachcham mendan bandroq.,"Comparative, odamlar va oila"
+1010,11,"Who is taller, you or your brother?","Kim balandroq, siz yoki akangiz?","Comparative, odamlar va oila"
+1011,11,Tashkent is bigger than Bukhara.,Toshkent Buxorodan katta.,"Comparative, shahar va joylar"
+1012,11,Bukhara is quieter than Tashkent.,Buxoro Toshkentdan tinchroq.,"Comparative, shahar va joylar"
+1013,11,The market is cheaper than the supermarket.,Bozor supermarketdan arzon.,"Comparative, shahar va joylar"
+1014,11,My house is closer to the office than yours.,Uyim ofisga seningnikidan yaqinroq.,"Comparative, shahar va joylar"
+1015,11,This road is wider than that one.,Bu yo’l u yo’ldan kengroq.,"Comparative, shahar va joylar"
+1016,11,The bus is slower than the metro.,Avtobus metrodan sekinroq.,"Comparative, shahar va joylar"
+1017,11,Winter is colder than autumn.,Qish kuzdan sovuqroq.,"Comparative, shahar va joylar"
+1018,11,Summer is hotter than spring.,Yoz bahordan issiqroq.,"Comparative, shahar va joylar"
+1019,11,The park is cleaner than the street.,Bog’ ko’chadan toza.,"Comparative, shahar va joylar"
+1020,11,The new building is higher than the old one.,Yangi bino eskisidan baland.,"Comparative, shahar va joylar"
+1021,11,This phone is more expensive than that one.,Bu telefon u telefondan qimmat.,"Comparative, narx va xarid (uzun sifatlar)"
+1022,11,This laptop is more useful than my old one.,Bu noutbuk eskisidan foydaliroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1023,11,A taxi is more comfortable than a bus.,Taksi avtobusdan qulayroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1024,11,This shirt is more beautiful than that one.,Bu ko’ylak u ko’ylakdan chiroyliroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1025,11,The metro is more convenient than the bus.,Metro avtobusdan qulayroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1026,11,Online shopping is more popular than before.,Onlayn xarid avvalgidan ommabop.,"Comparative, narx va xarid (uzun sifatlar)"
+1027,11,Fresh fruit is more delicious than canned fruit.,Yangi meva konservalangandan mazaliroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1028,11,This program is more difficult than the old one.,Bu dastur eskisidan murakkabroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1029,11,This course is more important than I thought.,Bu kurs men o’ylagandan muhimroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1030,11,This shop is more crowded than the other one.,Bu do’kon boshqasidan gavjumroq.,"Comparative, narx va xarid (uzun sifatlar)"
+1031,11,This tea is better than that tea.,Bu choy u choydan yaxshi.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1032,11,My English is better than last month.,Inglizcham o’tgan oydagidan yaxshi.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1033,11,The weather today is worse than yesterday.,Bugun havo kechagidan yomon.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1034,11,This film is worse than the book.,Bu film kitobdan yomonroq.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1035,11,Your idea is better than mine.,Sizning fikringiz meniki dan yaxshi.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1036,11,He speaks English better than me.,U inglizchada mendan yaxshi gapiradi.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1037,11,She is feeling better today.,U bugun o’zini yaxshiroq his qilyapti.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1038,11,The traffic is worse in the morning.,Ertalab tirbandlik yomonroq.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1039,11,I have less free time than before.,Avvalgidan bo’sh vaqtim kam.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1040,11,We have more work this month.,Shu oy ishimiz ko’proq.,"Comparative, noto’g’ri shakllar (good / bad / far / little / much)"
+1041,11,Tashkent is the biggest city in Uzbekistan.,Toshkent O’zbekistondagi eng katta shahar.,Superlative
+1042,11,Registan is one of the most beautiful places in Samarkand.,Registon Samarqanddagi eng go’zal joylardan biri.,Superlative
+1043,11,This is the cheapest shop in the market.,Bu bozordagi eng arzon do’kon.,Superlative
+1044,11,He is the tallest student in the class.,U sinfdagi eng baland o’quvchi.,Superlative
+1045,11,Summer is the hottest season.,Yoz eng issiq fasl.,Superlative
+1046,11,January is the coldest month.,Yanvar eng sovuq oy.,Superlative
+1047,11,This is the best restaurant in the city.,Bu shahardagi eng yaxshi restoran.,Superlative
+1048,11,That was the worst film I have ever seen.,Bu men ko’rgan eng yomon film edi.,Superlative
+1049,11,She is the most intelligent person I know.,U men biladigan eng aqlli odam.,Superlative
+1050,11,This is the most expensive phone in the shop.,Bu do’kondagi eng qimmat telefon.,Superlative
+1051,11,It is the easiest exercise.,Bu eng oson mashq.,Superlative
+1052,11,Who is the youngest in your family?,Oilangizda eng yoshi kim?,Superlative
+1053,11,What is the most important thing for you?,Siz uchun eng muhim narsa nima?,Superlative
+1054,11,Plov is the most famous dish in Uzbekistan.,Palov O’zbekistondagi eng mashhur taom.,Superlative
+1055,11,Today is the busiest day of the week.,Bugun haftaning eng band kuni.,Superlative
+1056,11,I am as tall as my brother.,Men akamdek balandman.,as ... as va boshqa taqqoslash
+1057,11,This bag is as expensive as that one.,Bu sumka u sumkadek qimmat.,as ... as va boshqa taqqoslash
+1058,11,She is not as old as me.,U men kabi katta emas.,as ... as va boshqa taqqoslash
+1059,11,Tea is not as strong as coffee.,Choy qahva kabi kuchli emas.,as ... as va boshqa taqqoslash
+1060,11,The bus is not as fast as the train.,Avtobus poyezd kabi tez emas.,as ... as va boshqa taqqoslash
+1061,11,He works as hard as his boss.,U boshlig’idek qattiq ishlaydi.,as ... as va boshqa taqqoslash
+1062,11,My English isn’t as good as hers yet.,Inglizcham hali uning inglizchasidek yaxshi emas.,as ... as va boshqa taqqoslash
+1063,11,This course is as useful as a private lesson.,Bu kurs xususiy dars kabi foydali.,as ... as va boshqa taqqoslash
+1064,11,My house is the same size as yours.,Mening uyim seningniki bilan bir xil kattalikda.,as ... as va boshqa taqqoslash
+1065,11,Your phone is different from mine.,Telefoningiz meniki dan boshqacha.,as ... as va boshqa taqqoslash
+1066,11,Working online is easier than going to the office.,Onlayn ishlash ofisga borishdan oson.,"Comparative, ish, texnologiya va ta’lim"
+1067,11,Learning with AI is faster than learning alone.,Sun’iy intellekt bilan o’rganish yolg’iz o’rganishdan tezroq.,"Comparative, ish, texnologiya va ta’lim"
+1068,11,Reading is easier than speaking for me.,Men uchun o’qish gapirishdan oson.,"Comparative, ish, texnologiya va ta’lim"
+1069,11,Speaking is more difficult than listening.,Gapirish tinglashdan qiyinroq.,"Comparative, ish, texnologiya va ta’lim"
+1070,11,Writing is harder than reading for many students.,Ko’p o’quvchilar uchun yozish o’qishdan qiyinroq.,"Comparative, ish, texnologiya va ta’lim"
+1071,11,A teacher’s job is more important than many people think.,O’qituvchi kasbi ko’pchilik o’ylagandan muhimroq.,"Comparative, ish, texnologiya va ta’lim"
+1072,11,This lesson is the most useful one this month.,Bu dars shu oydagi eng foydali dars.,"Comparative, ish, texnologiya va ta’lim"
+1073,11,The best way to learn is to practice every day.,O’rganishning eng yaxshi yo’li har kuni mashq qilish.,"Comparative, ish, texnologiya va ta’lim"
+1074,11,Online courses are cheaper than private lessons.,Onlayn kurslar xususiy darslardan arzonroq.,"Comparative, ish, texnologiya va ta’lim"
+1075,11,Please speak more slowly. I can understand you better.,"Iltimos, sekinroq gapiring. Sizni yaxshiroq tushunaman.","Comparative, ish, texnologiya va ta’lim"
+1076,11,My brother is much taller than me.,Akam mendan ancha baland.,"Comparative, kuchaytiruvchi va the more ..., the better"
+1077,11,This laptop is a lot faster than the old one.,Bu noutbuk eskisidan ancha tez.,"Comparative, kuchaytiruvchi va the more ..., the better"
+1078,11,This shop is slightly cheaper.,Bu do’kon sal arzonroq.,"Comparative, kuchaytiruvchi va the more ..., the better"
+1079,11,She is a little older than me.,U mendan sal katta.,"Comparative, kuchaytiruvchi va the more ..., the better"
+1080,11,Prices are far higher this year.,Shu yil narxlar ancha yuqori.,"Comparative, kuchaytiruvchi va the more ..., the better"
+1081,11,"The more you practice, the better you speak.","Qancha ko’p mashq qilsangiz, shuncha yaxshi gapirasiz.","Comparative, kuchaytiruvchi va the more ..., the better"
+1082,11,"The earlier you start, the easier it is.","Qancha erta boshlasangiz, shuncha oson.","Comparative, kuchaytiruvchi va the more ..., the better"
+1083,11,"The harder you work, the faster you improve.","Qancha qattiq ishlasangiz, shuncha tez o’sasiz.","Comparative, kuchaytiruvchi va the more ..., the better"
+1084,11,It is getting colder and colder.,Havo borgan sari sovuyapti.,"Comparative, kuchaytiruvchi va the more ..., the better"
+1085,11,My English is getting better and better.,Inglizcham tobora yaxshilanyapti.,"Comparative, kuchaytiruvchi va the more ..., the better"
+1086,11,"Which is bigger, Tashkent or Samarkand?","Qaysi biri katta, Toshkentmi yoki Samarqand?","Comparative / Superlative, savol va inkor"
+1087,11,"Which is cheaper, the bus or the taxi?","Qaysi biri arzon, avtobusmi yoki taksi?","Comparative / Superlative, savol va inkor"
+1088,11,Who is the best teacher you know?,Siz biladigan eng yaxshi o’qituvchi kim?,"Comparative / Superlative, savol va inkor"
+1089,11,Is English harder than Russian for you?,Siz uchun inglizcha ruschadan qiyinmi?,"Comparative / Superlative, savol va inkor"
+1090,11,What is the best way to improve speaking?,Gapirishni yaxshilashning eng yaxshi yo’li qanday?,"Comparative / Superlative, savol va inkor"
+1091,11,This is not the cheapest option.,Bu eng arzon variant emas.,"Comparative / Superlative, savol va inkor"
+1092,11,It isn’t more difficult than before.,Avvalgidan qiyinroq emas.,"Comparative / Superlative, savol va inkor"
+1093,11,She doesn’t speak as fast as me.,U men kabi tez gapirmaydi.,"Comparative / Superlative, savol va inkor"
+1094,11,I am more confident than two months ago.,Men ikki oy oldingidan ishonchliroqman.,"Comparative, o’zim haqimda"
+1095,11,My speaking is better than it was a month ago.,Gapirishim bir oy oldingidan yaxshi.,"Comparative, o’zim haqimda"
+1096,11,"English is the hardest subject for me, but the most important one.","Ingliz tili men uchun eng qiyin fan, lekin eng muhimi.","Comparative, o’zim haqimda"
+1097,11,I am studying harder than before.,Avvalgidan qattiqroq o’qiyapman.,"Comparative, o’zim haqimda"
+1098,11,The most important thing for me is to study every day.,Men uchun eng muhimi har kuni o’qish.,"Comparative, o’zim haqimda"
+1099,11,I want to be a better teacher than I am now.,Hozirgidan yaxshiroq o’qituvchi bo’lishni xohlayman.,"Comparative, o’zim haqimda"
+1100,11,"The sooner I pass IELTS, the sooner I can apply to the school.","IELTS dan qancha tez o’tsam, maktabga shuncha tez murojaat qila olaman.","Comparative, o’zim haqimda"
+1101,12,English is spoken all over the world.,Ingliz tilida butun dunyoda gaplashiladi.,"Passive, Present Simple"
+1102,12,Plov is cooked in a big pot.,Palov katta qozonda pishiriladi.,"Passive, Present Simple"
+1103,12,Tea is served after the meal.,Choy ovqatdan keyin beriladi.,"Passive, Present Simple"
+1104,12,The shop is opened at 9 a.m.,Do’kon soat 9 da ochiladi.,"Passive, Present Simple"
+1105,12,Cotton is grown in Uzbekistan.,Paxta O’zbekistonda yetishtiriladi.,"Passive, Present Simple"
+1106,12,These phones are made in China.,Bu telefonlar Xitoyda ishlab chiqariladi.,"Passive, Present Simple"
+1107,12,The streets are cleaned every morning.,Ko’chalar har ertalab tozalanadi.,"Passive, Present Simple"
+1108,12,Bread is baked in a tandoor.,Non tandirda yopiladi.,"Passive, Present Simple"
+1109,12,The lessons are taught in English.,Darslar inglizcha o’tiladi.,"Passive, Present Simple"
+1110,12,Homework is checked every day.,Uy vazifasi har kuni tekshiriladi.,"Passive, Present Simple"
+1111,12,The mail is delivered at noon.,Pochta tushlikda yetkaziladi.,"Passive, Present Simple"
+1112,12,Many languages are spoken in Tashkent.,Toshkentda ko’p tilda gapirishadi.,"Passive, Present Simple"
+1113,12,The window was broken yesterday.,Deraza kecha sindirildi.,"Passive, Past Simple"
+1114,12,My phone was stolen last week.,Telefonim o’tgan hafta o’g’irlandi.,"Passive, Past Simple"
+1115,12,The food was cooked by my mother.,Ovqatni onam pishirgan.,"Passive, Past Simple"
+1116,12,The letter was sent on Monday.,Xat dushanba kuni yuborildi.,"Passive, Past Simple"
+1117,12,The meeting was cancelled.,Yig’ilish bekor qilindi.,"Passive, Past Simple"
+1118,12,We were invited to the wedding.,Bizni to’yga taklif qilishdi.,"Passive, Past Simple"
+1119,12,The report was finished on time.,Hisobot o’z vaqtida tugatildi.,"Passive, Past Simple"
+1120,12,The shop was closed at 6.,Do’kon soat 6 da yopildi.,"Passive, Past Simple"
+1121,12,The keys were found in the car.,Kalitlar mashinadan topildi.,"Passive, Past Simple"
+1122,12,The lesson was recorded.,Dars yozib olindi.,"Passive, Past Simple"
+1123,12,I was born in Bukhara region.,Men Buxoro viloyatida tug’ilganman.,"Passive, Past Simple"
+1124,12,The children were taken to school by bus.,Bolalar maktabga avtobusda olib borildi.,"Passive, Past Simple"
+1125,12,Amir Temur was born in 1336.,Amir Temur 1336 yilda tug’ilgan.,"Passive, Past Simple, tarix"
+1126,12,Samarkand was made the capital of Temur’s state.,Samarqand Temur davlatining poytaxti qilindi.,"Passive, Past Simple, tarix"
+1127,12,The Ulugh Beg Observatory was built in the 1420s.,Ulug’bek rasadxonasi 1420-yillarda qurilgan.,"Passive, Past Simple, tarix"
+1128,12,Ulugh Beg was killed in 1449.,Ulug’bek 1449 yilda o’ldirilgan.,"Passive, Past Simple, tarix"
+1129,12,The Registan was built over several centuries.,Registon bir necha asr davomida qurilgan.,"Passive, Past Simple, tarix"
+1130,12,Al-Khwarizmi’s books were translated into Latin.,Xorazmiy kitoblari lotin tiliga tarjima qilingan.,"Passive, Past Simple, tarix"
+1131,12,The Canon of Medicine was written by Ibn Sina.,“Tib qonunlari”ni Ibn Sino yozgan.,"Passive, Past Simple, tarix"
+1132,12,Goods were carried along the Silk Road.,Tovarlar Ipak yo’li bo’ylab tashilgan.,"Passive, Past Simple, tarix"
+1133,12,Many cities were destroyed during the wars.,Urushlar paytida ko’p shaharlar vayron qilingan.,"Passive, Past Simple, tarix"
+1134,12,The old city was surrounded by a wall.,Eski shahar devor bilan o’ralgan edi.,"Passive, Past Simple, tarix"
+1135,12,Tashkent was rebuilt after the earthquake in 1966.,Toshkent 1966 yilgi zilziladan keyin qayta qurildi.,"Passive, Past Simple, tarix"
+1136,12,The Soviet Union was dissolved in 1991.,Sovet Ittifoqi 1991 yilda tarqatildi.,"Passive, Past Simple, tarix"
+1137,12,Independence was declared on 1 September 1991.,Mustaqillik 1991 yil 1 sentabrda e’lon qilindi.,"Passive, Past Simple, tarix"
+1138,12,The Constitution was adopted on 8 December 1992.,Konstitutsiya 1992 yil 8 dekabrda qabul qilindi.,"Passive, Past Simple, tarix"
+1139,12,The historic centre of Bukhara was added to the UNESCO World Heritage List in 1993.,Buxoroning tarixiy markazi 1993 yilda YuNESKO Jahon merosi ro’yxatiga kiritildi.,"Passive, Past Simple, tarix"
+1140,12,Many manuscripts were kept in the library.,Ko’p qo’lyozmalar kutubxonada saqlangan.,"Passive, Past Simple, tarix"
+1141,12,The road has been repaired.,Yo’l ta’mirlandi.,"Passive, Present Perfect / Future"
+1142,12,The report has been sent.,Hisobot yuborildi.,"Passive, Present Perfect / Future"
+1143,12,My homework has been done.,Uy vazifam bajarildi.,"Passive, Present Perfect / Future"
+1144,12,The shop has been closed for a week.,Do’kon bir haftadan beri yopiq.,"Passive, Present Perfect / Future"
+1145,12,A new school has been built in our district.,Tumanimizda yangi maktab qurildi.,"Passive, Present Perfect / Future"
+1146,12,Prices have been raised.,Narxlar ko’tarildi.,"Passive, Present Perfect / Future"
+1147,12,The results will be announced tomorrow.,Natijalar ertaga e’lon qilinadi.,"Passive, Present Perfect / Future"
+1148,12,The room will be cleaned in the evening.,Xona kechqurun tozalanadi.,"Passive, Present Perfect / Future"
+1149,12,The new office will be opened next month.,Yangi ofis kelasi oy ochiladi.,"Passive, Present Perfect / Future"
+1150,12,You will be told the answer later.,Sizga javob keyinroq aytiladi.,"Passive, Present Perfect / Future"
+1151,12,The documents will be checked by the manager.,Hujjatlarni menejer tekshiradi.,"Passive, Present Perfect / Future"
+1152,12,The exam will be held in June.,Imtihon iyunda o’tkaziladi.,"Passive, Present Perfect / Future"
+1153,12,The work must be finished by Friday.,Ish juma kunigacha tugatilishi shart.,"Passive, Modal"
+1154,12,This medicine should be kept in a cool place.,Bu dori salqin joyda saqlanishi kerak.,"Passive, Modal"
+1155,12,The form can be filled in online.,Anketani onlayn to’ldirish mumkin.,"Passive, Modal"
+1156,12,Tickets can be bought at the station.,Chiptalarni bekatda sotib olish mumkin.,"Passive, Modal"
+1157,12,Mistakes can be corrected.,Xatolarni tuzatish mumkin.,"Passive, Modal"
+1158,12,The windows must be closed at night.,Derazalar kechasi yopilishi kerak.,"Passive, Modal"
+1159,12,Phones mustn’t be used during the exam.,Imtihon paytida telefondan foydalanib bo’lmaydi.,"Passive, Modal"
+1160,12,The problem could be solved quickly.,Muammoni tez hal qilish mumkin edi.,"Passive, Modal"
+1161,12,The text should be read carefully.,Matnni diqqat bilan o’qish kerak.,"Passive, Modal"
+1162,12,Children should be taught to respect others.,Bolalarga boshqalarni hurmat qilishni o’rgatish kerak.,"Passive, Modal"
+1163,12,"First, the cotton is picked.",Avval paxta terib olinadi.,"Passive, jarayon tavsifi"
+1164,12,Then it is cleaned and dried.,"Keyin tozalanib, quritiladi.","Passive, jarayon tavsifi"
+1165,12,"After that, the thread is made.",Shundan keyin ip yasaladi.,"Passive, jarayon tavsifi"
+1166,12,"Finally, the cloth is sold in the market.",Oxirida mato bozorda sotiladi.,"Passive, jarayon tavsifi"
+1167,12,The water is heated to 100 degrees.,Suv 100 darajagacha qizdiriladi.,"Passive, jarayon tavsifi"
+1168,12,The dough is mixed and left for an hour.,"Xamir aralashtirilib, bir soat qoldiriladi.","Passive, jarayon tavsifi"
+1169,12,The bread is baked for 20 minutes.,Non 20 daqiqa yopiladi.,"Passive, jarayon tavsifi"
+1170,12,The data was collected in 2020.,Ma’lumotlar 2020 yilda yig’ilgan.,"Passive, jarayon tavsifi"
+1171,12,The data is shown in the table.,Ma’lumotlar jadvalda ko’rsatilgan.,"Passive, jarayon tavsifi"
+1172,12,The results were compared.,Natijalar taqqoslandi.,"Passive, jarayon tavsifi"
+1173,12,The numbers are given in millions.,Raqamlar million hisobida berilgan.,"Passive, jarayon tavsifi"
+1174,12,The chart is divided into three parts.,Diagramma uch qismga bo’lingan.,"Passive, jarayon tavsifi"
+1175,12,A new website is being built.,Yangi sayt qurilmoqda.,"Passive, Continuous va boshqa zamonlar"
+1176,12,The code is being tested now.,Kod hozir sinovdan o’tkazilmoqda.,"Passive, Continuous va boshqa zamonlar"
+1177,12,The students are being taught a new lesson.,O’quvchilarga yangi dars o’rgatilmoqda.,"Passive, Continuous va boshqa zamonlar"
+1178,12,The road is being repaired.,Yo’l ta’mirlanmoqda.,"Passive, Continuous va boshqa zamonlar"
+1179,12,My laptop is being fixed.,Noutbukim tuzatilmoqda.,"Passive, Continuous va boshqa zamonlar"
+1180,12,The bug was fixed yesterday.,Xato kecha tuzatildi.,"Passive, Continuous va boshqa zamonlar"
+1181,12,The app was released last month.,Ilova o’tgan oy chiqarildi.,"Passive, Continuous va boshqa zamonlar"
+1182,12,The lesson plan has been prepared.,Dars rejasi tayyorlandi.,"Passive, Continuous va boshqa zamonlar"
+1183,12,This room isn’t used every day.,Bu xonadan har kuni foydalanilmaydi.,"Passive, inkor"
+1184,12,The homework wasn’t done.,Uy vazifasi bajarilmagan.,"Passive, inkor"
+1185,12,The letter wasn’t sent.,Xat yuborilmagan.,"Passive, inkor"
+1186,12,The exam hasn’t been announced yet.,Imtihon hali e’lon qilinmagan.,"Passive, inkor"
+1187,12,The work won’t be finished today.,Ish bugun tugatilmaydi.,"Passive, inkor"
+1188,12,We weren’t told the truth.,Bizga haqiqat aytilmagan.,"Passive, inkor"
+1189,12,Where was it made?,U qayerda ishlab chiqarilgan?,"Passive, so’roq"
+1190,12,When was the school built?,Maktab qachon qurilgan?,"Passive, so’roq"
+1191,12,Who was this book written by?,Bu kitobni kim yozgan?,"Passive, so’roq"
+1192,12,Is English taught here?,Bu yerda ingliz tili o’qitiladimi?,"Passive, so’roq"
+1193,12,Was the door locked?,Eshik qulflanganmidi?,"Passive, so’roq"
+1194,12,Has the work been finished?,Ish tugatildimi?,"Passive, so’roq"
+1195,12,When will the results be announced?,Natijalar qachon e’lon qilinadi?,"Passive, so’roq"
+1196,12,The manager signed the contract. / The contract was signed by the manager.,Menejer shartnomani imzoladi. / Shartnoma menejer tomonidan imzolandi.,"Active vs Passive, o’zim haqimda"
+1197,12,People speak English worldwide. / English is spoken worldwide.,Odamlar butun dunyoda inglizcha gapiradi. / Ingliz tilida butun dunyoda gapiriladi.,"Active vs Passive, o’zim haqimda"
+1198,12,Someone stole my bag. / My bag was stolen.,Kimdir sumkamni o’g’irladi. / Sumkam o’g’irlandi.,"Active vs Passive, o’zim haqimda"
+1199,12,"I was taught history at university, and I will teach it in English.","Menga universitetda tarix o’rgatilgan, men uni inglizcha o’qitaman.","Active vs Passive, o’zim haqimda"
+1200,12,"If I pass the IELTS, I will be invited for an interview.","IELTS dan o’tsam, intervyuga taklif qilinaman.","Active vs Passive, o’zim haqimda"
+1201,13,"If you heat water to 100 degrees, it boils.","Suvni 100 darajagacha qizdirsangiz, qaynaydi.",0-tur shart
+1202,13,"If I don’t sleep enough, I feel tired.","Yetarli uxlamasam, charchagan bo’laman.",0-tur shart
+1203,13,"If you mix red and blue, you get purple.","Qizil va ko’kni aralashtirsangiz, binafsha chiqadi.",0-tur shart
+1204,13,"If it rains, I take an umbrella.","Yomg’ir yog’sa, soyabon olaman.",0-tur shart
+1205,13,"If you study every day, you improve.","Har kuni o’qisangiz, o’sasiz.",0-tur shart
+1206,13,"If it rains tomorrow, we will stay at home.","Ertaga yomg’ir yog’sa, uyda qolamiz.",1-tur shart
+1207,13,"If I pass the exam, I will apply to the school.","Imtihondan o’tsam, maktabga murojaat qilaman.",1-tur shart
+1208,13,"If you don’t hurry, you will miss the bus.","Shoshilmasangiz, avtobusga ulgurmaysiz.",1-tur shart
+1209,13,"If she calls, I will tell her.","U qo’ng’iroq qilsa, aytaman.",1-tur shart
+1210,13,I will help you if you ask me.,"Mendan so’rasangiz, yordam beraman.",1-tur shart
+1211,13,"If I had more time, I would study more.","Vaqtim ko’proq bo’lsa, ko’proq o’qirdim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1212,13,"If I had a car, I would drive to work.","Mashinam bo’lsa, ishga mashinada borardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1213,13,"If I won the lottery, I would buy a house.","Lotereyada yutsam, uy sotib olardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1214,13,"If it were warmer, we would go to the park.","Havo issiqroq bo’lsa, bog’ga borardik.","2-tur shart, kundalik xayoliy vaziyatlar"
+1215,13,"If I lived in London, I would speak English every day.","Londonda yashasam, har kuni inglizcha gapirardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1216,13,"If she knew the answer, she would tell us.","U javobni bilsa, bizga aytardi.","2-tur shart, kundalik xayoliy vaziyatlar"
+1217,13,"If I had a lot of money, I would travel around the world.","Pulim ko’p bo’lsa, dunyo bo’ylab sayohat qilardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1218,13,"If we had a bigger house, we would invite more guests.","Uyimiz kattaroq bo’lsa, ko’proq mehmon chaqirardik.","2-tur shart, kundalik xayoliy vaziyatlar"
+1219,13,"If he got up earlier, he wouldn’t be late.","U erta tursa, kech qolmasdi.","2-tur shart, kundalik xayoliy vaziyatlar"
+1220,13,"If I didn’t have to work today, I would sleep until noon.","Bugun ishlashim shart bo’lmasa, tushgacha uxlardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1221,13,"If I could fly, I would visit every country.","Uchsam, har bir mamlakatga borardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1222,13,"If I had a day off, I would visit Bukhara.","Dam olish kunim bo’lsa, Buxoroga borardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1223,13,"If the weather were better, we would have a picnic.","Havo yaxshiroq bo’lsa, piknik qilardik.","2-tur shart, kundalik xayoliy vaziyatlar"
+1224,13,"If I spoke English fluently, I would feel more confident.","Inglizchani ravon gapirsam, o’zimni ishonchliroq his qilardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1225,13,"If they lived near us, we would see them every week.","Ular yaqinimizda yashasa, har hafta ko’rardik.","2-tur shart, kundalik xayoliy vaziyatlar"
+1226,13,"If I had a pet, I would get a dog.","Uy hayvonim bo’lsa, it olardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1227,13,"If the shop were open, I would buy some bread.","Do’kon ochiq bo’lsa, non sotib olardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1228,13,"If she had time, she would learn to cook.","Vaqti bo’lsa, u ovqat pishirishni o’rganardi.","2-tur shart, kundalik xayoliy vaziyatlar"
+1229,13,"If I could meet anyone in history, I would meet Amir Temur.","Tarixdagi istalgan kishi bilan uchrashsam, Amir Temur bilan uchrashardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1230,13,"If I could speak to Ibn Sina, I would ask him about medicine.","Ibn Sino bilan gaplashsam, undan tibbiyot haqida so’rardim.","2-tur shart, kundalik xayoliy vaziyatlar"
+1231,13,"If I were you, I would see a doctor.","Sizning o’rningizda bo’lsam, shifokorga borardim.","2-tur shart, If I were you (maslahat)"
+1232,13,"If I were you, I would sleep earlier.","Sizning o’rningizda bo’lsam, erta uxlardim.","2-tur shart, If I were you (maslahat)"
+1233,13,"If I were you, I wouldn’t buy that phone.","Sizning o’rningizda bo’lsam, u telefonni sotib olmasdim.","2-tur shart, If I were you (maslahat)"
+1234,13,"If I were you, I would practice speaking every day.","Sizning o’rningizda bo’lsam, har kuni gapirishni mashq qilardim.","2-tur shart, If I were you (maslahat)"
+1235,13,"If I were you, I would talk to the manager.","Sizning o’rningizda bo’lsam, menejer bilan gaplashardim.","2-tur shart, If I were you (maslahat)"
+1236,13,"If I were you, I would save some money.","Sizning o’rningizda bo’lsam, biroz pul yig’ardim.","2-tur shart, If I were you (maslahat)"
+1237,13,"If I were you, I wouldn’t wait any longer.","Sizning o’rningizda bo’lsam, boshqa kutmasdim.","2-tur shart, If I were you (maslahat)"
+1238,13,"If I were you, I would take the job.","Sizning o’rningizda bo’lsam, ishni olardim.","2-tur shart, If I were you (maslahat)"
+1239,13,"If I were you, I would learn a new skill.","Sizning o’rningizda bo’lsam, yangi ko’nikma o’rganardim.","2-tur shart, If I were you (maslahat)"
+1240,13,What would you do if you were me?,"Mening o’rnimda bo’lsangiz, nima qilardingiz?","2-tur shart, If I were you (maslahat)"
+1241,13,"If I got IELTS 7, I would apply to a private school.","IELTS 7 olsam, xususiy maktabga murojaat qilardim.","2-tur shart, ish, o’qish, orzular"
+1242,13,"If I taught history in English, I would use many maps and photos.","Tarixdan inglizcha dars bersam, ko’p xarita va rasm ishlatardim.","2-tur shart, ish, o’qish, orzular"
+1243,13,"If I had more free time, I would write more code.","Bo’sh vaqtim ko’proq bo’lsa, ko’proq kod yozardim.","2-tur shart, ish, o’qish, orzular"
+1244,13,"If I had my own company, I would hire three programmers.","O’z kompaniyam bo’lsa, uchta dasturchi yollardim.","2-tur shart, ish, o’qish, orzular"
+1245,13,"If I could work from home, I would save two hours every day.","Uydan ishlay olsam, har kuni ikki soat tejardim.","2-tur shart, ish, o’qish, orzular"
+1246,13,"If I had a better laptop, I would work faster.","Noutbukim yaxshiroq bo’lsa, tezroq ishlardim.","2-tur shart, ish, o’qish, orzular"
+1247,13,"If I knew more English words, I would speak more easily.","Ko’proq inglizcha so’z bilsam, osonroq gapirardim.","2-tur shart, ish, o’qish, orzular"
+1248,13,"If I had a tutor, I would get feedback every day.","Repetitorim bo’lsa, har kuni fikr-mulohaza olardim.","2-tur shart, ish, o’qish, orzular"
+1249,13,"If the exam were easier, more people would pass it.","Imtihon osonroq bo’lsa, ko’proq odam o’tardi.","2-tur shart, ish, o’qish, orzular"
+1250,13,"If our lessons were shorter, students would pay more attention.","Darslarimiz qisqaroq bo’lsa, o’quvchilar ko’proq e’tibor berardi.","2-tur shart, ish, o’qish, orzular"
+1251,13,"If I were a history teacher in a big school, I would organize trips to museums.","Katta maktabda tarix o’qituvchisi bo’lsam, muzeylarga sayohat uyushtirardim.","2-tur shart, ish, o’qish, orzular"
+1252,13,"If students read more, they would write better essays.","O’quvchilar ko’proq o’qisa, yaxshiroq insho yozardi.","2-tur shart, ish, o’qish, orzular"
+1253,13,"If we had more clients, we would open a new office.","Mijozlarimiz ko’proq bo’lsa, yangi ofis ochardik.","2-tur shart, ish, o’qish, orzular"
+1254,13,"If I were the manager, I would change the schedule.","Men menejer bo’lsam, jadvalni o’zgartirardim.","2-tur shart, ish, o’qish, orzular"
+1255,13,"If I started my own startup, I would choose the Central Asian market.","O’z startapimni boshlasam, Markaziy Osiyo bozorini tanlardim.","2-tur shart, ish, o’qish, orzular"
+1256,13,"If people used public transport, there would be less traffic.","Odamlar jamoat transportidan foydalansa, tirbandlik kamroq bo’lardi.","2-tur shart, ish, o’qish, orzular"
+1257,13,"If I didn’t have this job, I would look for another one.","Bu ishim bo’lmasa, boshqasini qidirardim.","2-tur shart, inkor va so’roq"
+1258,13,"If she didn’t like tea, she wouldn’t drink it every day.","U choyni yoqtirmasa, har kuni ichmasdi.","2-tur shart, inkor va so’roq"
+1259,13,"If I weren’t so busy, I would join you.","Bunchalik band bo’lmasam, sizga qo’shilardim.","2-tur shart, inkor va so’roq"
+1260,13,"If it weren’t so expensive, I would buy it.","Bunchalik qimmat bo’lmasa, sotib olardim.","2-tur shart, inkor va so’roq"
+1261,13,"If they didn’t help us, we wouldn’t finish on time.","Ular yordam bermasa, o’z vaqtida tugatolmasdik.","2-tur shart, inkor va so’roq"
+1262,13,What would you do if you had a free day?,"Bo’sh kuningiz bo’lsa, nima qilardingiz?","2-tur shart, inkor va so’roq"
+1263,13,Where would you go if you could travel anywhere?,"Istalgan joyga borsangiz, qayerga borardingiz?","2-tur shart, inkor va so’roq"
+1264,13,What would you buy if you won a million dollars?,"Million dollar yutsangiz, nima sotib olardingiz?","2-tur shart, inkor va so’roq"
+1265,13,Would you be happy if you changed jobs?,"Ishingizni almashtirsangiz, xursand bo’larmidingiz?","2-tur shart, inkor va so’roq"
+1266,13,Who would you invite if you had a party?,"Ziyofat bersangiz, kimni taklif qilardingiz?","2-tur shart, inkor va so’roq"
+1267,13,How would you feel if you failed the exam?,"Imtihondan yiqilsangiz, o’zingizni qanday his qilardingiz?","2-tur shart, inkor va so’roq"
+1268,13,Would you live abroad if you had the chance?,"Imkon bo’lsa, chet elda yashagan bo’lardingizmi?","2-tur shart, inkor va so’roq"
+1269,13,"If I had studied harder, I would have passed the exam.","Qattiqroq o’qiganimda, imtihondan o’tgan bo’lardim.","3-tur shart, afsuslar va o’tmish"
+1270,13,"If I had left earlier, I wouldn’t have missed the bus.","Erta chiqqanimda, avtobusga ulgurgan bo’lardim.","3-tur shart, afsuslar va o’tmish"
+1271,13,"If she had called me, I would have helped her.","U menga qo’ng’iroq qilganida, yordam bergan bo’lardim.","3-tur shart, afsuslar va o’tmish"
+1272,13,"If we had taken a taxi, we would have arrived on time.","Taksi olganimizda, o’z vaqtida yetib kelgan bo’lardik.","3-tur shart, afsuslar va o’tmish"
+1273,13,"If it hadn’t rained, we would have gone to the park.","Yomg’ir yog’masa, bog’ga borgan bo’lardik.","3-tur shart, afsuslar va o’tmish"
+1274,13,"If he had known the truth, he would have told us.","U haqiqatni bilganida, bizga aytgan bo’lardi.","3-tur shart, afsuslar va o’tmish"
+1275,13,"If I had saved money, I would have bought a car.","Pul yig’ganimda, mashina sotib olgan bo’lardim.","3-tur shart, afsuslar va o’tmish"
+1276,13,"If they had listened to the teacher, they wouldn’t have made mistakes.","O’qituvchini tinglaganlarida, xato qilmagan bo’lardilar.","3-tur shart, afsuslar va o’tmish"
+1277,13,"If I had started this course a year ago, I would have finished it already.","Bu kursni bir yil oldin boshlaganimda, allaqachon tugatgan bo’lardim.","3-tur shart, afsuslar va o’tmish"
+1278,13,"If he had checked the code, he would have found the bug.","U kodni tekshirganida, xatoni topgan bo’lardi.","3-tur shart, afsuslar va o’tmish"
+1279,13,"If I hadn’t forgotten my keys, I wouldn’t have been late.","Kalitlarimni unutmaganimda, kech qolmagan bo’lardim.","3-tur shart, afsuslar va o’tmish"
+1280,13,"If she had taken the medicine, she would have felt better.","U dorini ichganida, o’zini yaxshiroq his qilgan bo’lardi.","3-tur shart, afsuslar va o’tmish"
+1281,13,"If we had booked a hotel, we wouldn’t have slept in the car.","Mehmonxona bron qilganimizda, mashinada uxlamagan bo’lardik.","3-tur shart, afsuslar va o’tmish"
+1282,13,"If the manager had come earlier, the meeting would have started on time.","Menejer erta kelganida, yig’ilish o’z vaqtida boshlangan bo’lardi.","3-tur shart, afsuslar va o’tmish"
+1283,13,"If I had known about the sale, I would have gone to the shop.","Chegirma haqida bilganimda, do’konga borgan bo’lardim.","3-tur shart, afsuslar va o’tmish"
+1284,13,"If the city had been better protected, it would not have been destroyed.","Shahar yaxshiroq himoyalangan bo’lganida, vayron bo’lmagan bo’lardi.","3-tur shart, afsuslar va o’tmish"
+1285,13,"If the Silk Road had not existed, Samarkand would not have become such a rich trading city.","Ipak yo’li bo’lmaganida, Samarqand bunchalik boy savdo shahriga aylanmagan bo’lardi.","3-tur shart, tarixga oid taxminlar"
+1286,13,"If Ulugh Beg had lived longer, he might have continued his research.","Ulug’bek uzoqroq yashaganida, tadqiqotlarini davom ettirgan bo’lishi mumkin edi.","3-tur shart, tarixga oid taxminlar"
+1287,13,"If the earthquake hadn’t destroyed Tashkent in 1966, the city would look different today.","1966 yilgi zilzila Toshkentni vayron qilmaganida, shahar bugun boshqacha ko’rinardi.","3-tur shart, tarixga oid taxminlar"
+1288,13,"If I had lived in the 15th century, I would have visited Ulugh Beg’s observatory.","15-asrda yashaganimda, Ulug’bek rasadxonasiga borgan bo’lardim.","3-tur shart, tarixga oid taxminlar"
+1289,13,"If I hadn’t worked so hard, I wouldn’t have learned so much.","Bunchalik qattiq ishlamaganimda, shuncha o’rganmagan bo’lardim.","3-tur shart, inkor va so’roq"
+1290,13,What would you have done if you had missed the flight?,"Reysga kech qolganingizda, nima qilgan bo’lardingiz?","3-tur shart, inkor va so’roq"
+1291,13,Would you have gone if they had invited you?,"Sizni taklif qilishganida, borgan bo’lardingizmi?","3-tur shart, inkor va so’roq"
+1292,13,"If you hadn’t helped me, I wouldn’t have finished the project.","Yordam bermaganingizda, loyihani tugatolmagan bo’lardim.","3-tur shart, inkor va so’roq"
+1293,13,"If I had started learning English earlier, I would speak better now.","Inglizchani erta boshlaganimda, hozir yaxshiroq gapirgan bo’lardim.",Aralash shart va wish
+1294,13,"If I had studied programming at school, I would be a senior developer now.","Maktabda dasturlashni o’rganganimda, hozir senior dasturchi bo’lardim.",Aralash shart va wish
+1295,13,"If she hadn’t moved to Tashkent, she wouldn’t work here now.","U Toshkentga ko’chib kelmaganida, hozir bu yerda ishlamasdi.",Aralash shart va wish
+1296,13,I wish I had more time.,Kaş vaqtim ko’proq bo’lsa.,Aralash shart va wish
+1297,13,I wish I spoke English fluently.,Kaş inglizchani ravon gapirsam.,Aralash shart va wish
+1298,13,I wish I had started English earlier.,Kaş inglizchani erta boshlaganimda.,Aralash shart va wish
+1299,13,"If I keep my daily streak, I will reach my goal.","Kundalik seriyamni saqlasam, maqsadimga yetaman.",Aralash shart va wish
+1300,13,"If I hadn’t started this plan, I wouldn’t be speaking English like this today.","Bu rejani boshlamaganimda, bugun bunday inglizcha gapirmagan bo’lardim.",Aralash shart va wish
+1301,14,"How is it going? – Not bad, thanks.","Ishlar qalay? – Yomon emas, rahmat.",to be
+1302,14,Long time no see! How have you been?,Ancha bo’ldi ko’rishmaganimizga! Qalaysiz?,Present Perfect
+1303,14,Sorry to keep you waiting.,Kutdirib qo’ygan uchun uzr.,ibora
+1304,14,"Could you say that again, please?",Buni yana bir marta aytib bera olasizmi?,Modal
+1305,14,What do you mean by that?,Bu bilan nima demoqchisiz?,Present Simple
+1306,14,Let me think about it.,Bu haqda o’ylab ko’ray.,ibora
+1307,14,I didn’t catch your name.,Ismingizni eshitmay qoldim.,Past Simple
+1308,14,"By the way, are you free tomorrow?","Aytgancha, ertaga bo’shmisiz?",to be
+1309,14,Thanks for your help. I really appreciate it.,Yordamingiz uchun rahmat. Juda minnatdorman.,Present Simple
+1310,14,Never mind. It’s not important.,Zarari yo’q. Bu muhim emas.,ibora
+1311,14,"In my opinion, learning English is worth the effort.","Menimcha, ingliz tilini o’rganish mehnatga arziydi.",fikr bildirish
+1312,14,I totally agree with you.,Sizga to’liq qo’shilaman.,rozilik
+1313,14,I’m afraid I disagree.,"Afsuski, qo’shila olmayman.",e’tiroz
+1314,14,"That’s a good point, but I think it’s too expensive.","Bu yaxshi fikr, lekin menimcha juda qimmat.",fikr bildirish
+1315,14,"On the one hand, it is cheaper; on the other hand, it is slower.","Bir tomondan arzonroq, ikkinchi tomondan sekinroq.",Comparative
+1316,14,"As far as I know, the exam is in June.","Bilishimcha, imtihon iyunda.",ibora
+1317,14,It depends on the weather.,Bu ob-havoga bog’liq.,Present Simple
+1318,14,"To be honest, I haven’t decided yet.","Rostini aytsam, hali qaror qilmaganman.",Present Perfect
+1319,14,It seems to me that he is right.,"Menimcha, u haq.",fikr bildirish
+1320,14,I used to think English was impossible.,Ilgari inglizcha imkonsiz deb o’ylardim.,used to
+1321,14,"I usually wake up at 7, but today I woke up at 6.","Odatda 7 da uyg’onaman, lekin bugun 6 da uyg’ondim.",Present Simple + Past Simple
+1322,14,She is cooking dinner while the kids are doing their homework.,"U kechki ovqat pishirayotganda, bolalar uy vazifasini bajaryapti.",Present Continuous
+1323,14,We were having tea when the guests arrived.,Mehmonlar kelganda choy ichayotgan edik.,Past Continuous
+1324,14,I have already washed the dishes.,Idishlarni allaqachon yuvib bo’ldim.,Present Perfect
+1325,14,"Tomorrow I’m going to clean the house, and then I’ll relax.","Ertaga uyni tozalayman, keyin dam olaman.",going to + will
+1326,14,"If it’s sunny on Sunday, we will go to the park.","Yakshanba kuni havo ochiq bo’lsa, bog’ga boramiz.",1-tur shart
+1327,14,The bread is baked fresh every morning.,Non har ertalab yangi yopiladi.,Passive
+1328,14,You should drink more water and sleep more.,Ko’proq suv ichishingiz va ko’proq uxlashingiz kerak.,Modal
+1329,14,"This apartment is bigger than my old one, but it’s more expensive.","Bu kvartira eskisidan katta, lekin qimmatroq.",Comparative
+1330,14,I don’t have to cook today because we are eating out.,"Bugun ovqat pishirishim shart emas, chunki tashqarida ovqatlanamiz.",Modal + Present Continuous
+1331,14,I’m working on a new project at the moment.,Hozir yangi loyiha ustida ishlayapman.,Present Continuous
+1332,14,She has worked as a teacher for ten years.,U o’n yildan beri o’qituvchi bo’lib ishlaydi.,Present Perfect
+1333,14,The meeting was postponed until next week.,Yig’ilish kelasi haftaga qoldirildi.,Passive
+1334,14,Could you send me the report by Friday?,Hisobotni juma kunigacha yuborib bera olasizmi?,Modal
+1335,14,We must finish the project before the deadline.,Loyihani muddatgacha tugatishimiz shart.,Modal
+1336,14,"If I had more time, I would learn a new skill.","Vaqtim ko’proq bo’lsa, yangi ko’nikma o’rganardim.",2-tur shart
+1337,14,He was writing code when the power went off.,Elektr o’chganda u kod yozayotgan edi.,Past Continuous + Past Simple
+1338,14,The lesson starts at 9 and ends at 10:30.,"Dars 9 da boshlanib, 10:30 da tugaydi.","Present Simple, jadval"
+1339,14,I’m looking forward to meeting the new team.,Yangi jamoa bilan tanishishni intizorlik bilan kutyapman.,ibora
+1340,14,Let’s keep in touch.,Aloqada bo’laylik.,ibora
+1341,14,Please turn off your phone during the lesson.,Dars paytida telefoningizni o’chiring.,turn off
+1342,14,I get up at 6 every day.,Har kuni 6 da turaman.,get up
+1343,14,She looked up the word in the dictionary.,U so’zni lug’atdan qidirib topdi.,look up
+1344,14,Don’t give up! You are getting better.,Taslim bo’lmang! Yaxshilanyapsiz.,give up
+1345,14,"We ran out of milk, so I’ll go to the shop.","Sutimiz tugab qoldi, shuning uchun do’konga boraman.",run out of
+1346,14,Can you pick me up at 5?,Meni soat 5 da olib keta olasizmi?,pick up
+1347,14,He found out the truth yesterday.,U haqiqatni kecha bilib oldi.,find out
+1348,14,I’m trying to cut down on sugar.,Shakarni kamaytirishga harakat qilyapman.,cut down on
+1349,14,Please fill in this form.,"Iltimos, bu anketani to’ldiring.",fill in
+1350,14,They set up a new company last year.,Ular o’tgan yili yangi kompaniya ochdi.,set up
+1351,14,I’ll look after your cat while you’re away.,Siz yo’qligingizda mushugingizga qarab turaman.,look after
+1352,14,Let’s carry on with the lesson.,Darsni davom ettiraylik.,carry on
+1353,14,It’s a piece of cake.,Bu juda oson.,idiom
+1354,14,I’m under the weather today.,Bugun o’zimni yaxshi his qilmayapman.,idiom
+1355,14,Break a leg!,Omad tilayman!,idiom
+1356,14,Better late than never.,"Kech bo’lsa ham, hech qachondan yaxshi.",maqol
+1357,14,Practice makes perfect.,Mashq mukammallikka olib boradi.,maqol
+1358,14,"Once in a blue moon, we eat out.",Juda kamdan-kam tashqarida ovqatlanamiz.,idiom
+1359,14,He hit the nail on the head.,U aynan to’g’ri gapni topib aytdi.,idiom
+1360,14,"Don’t worry, it’s not the end of the world.","Xavotir olmang, dunyo tugamadi-ku.",idiom
+1361,14,Actions speak louder than words.,Ish so’zdan kuchli.,maqol
+1362,14,Rome wasn’t built in a day.,Rim bir kunda qurilmagan.,"maqol, Passive"
+1363,14,"I have never been to Europe, but I’m going to visit Turkey next year.","Hech qachon Yevropada bo’lmaganman, lekin kelasi yil Turkiyaga bormoqchiman.",Present Perfect + going to
+1364,14,How long have you lived in Tashkent?,Toshkentda qancha vaqtdan beri yashaysiz?,Present Perfect
+1365,14,"When I was a child, I used to play outside every day.",Bolaligimda har kuni tashqarida o’ynardim.,used to
+1366,14,"As soon as I get home, I will call you.",Uyga yetib borishim bilanoq sizga qo’ng’iroq qilaman.,"1-tur, when/as soon as"
+1367,14,"Since 2020, many things have changed.",2020 yildan beri ko’p narsa o’zgardi.,Present Perfect
+1368,14,"I’m meeting my friend at 6, so I can’t stay.","Soat 6 da do’stim bilan uchrashaman, shuning uchun qola olmayman.",Present Continuous reja + Modal
+1369,14,The train leaves at 8 sharp.,Poyezd roppa-rosa 8 da jo’naydi.,"Present Simple, jadval"
+1370,14,I haven’t seen him for ages.,Uni ko’rmaganimga ancha bo’ldi.,Present Perfect
+1371,14,Yesterday at this time I was sitting on a bus.,Kecha shu paytda avtobusda o’tirgan edim.,Past Continuous
+1372,14,"Next month, my course will be finished.",Kelasi oy kursim tugatiladi.,"Passive, will"
+1373,14,"Excuse me, how can I get to the station?","Kechirasiz, bekatga qanday borsam bo’ladi?",Modal
+1374,14,Could you tell me where the nearest pharmacy is?,Eng yaqin dorixona qayerdaligini ayta olasizmi?,"Modal, so’roq"
+1375,14,I’d like to book a room for two nights.,Ikki kechaga xona bron qilmoqchiman.,would like
+1376,14,How much does it cost per night?,Bir kechasi qancha turadi?,Present Simple
+1377,14,Is breakfast included?,Nonushta kiritilganmi?,Passive
+1378,14,My flight was delayed because of the fog.,Reysim tuman sababli kechiktirildi.,Passive
+1379,14,I have lost my passport. What should I do?,Pasportimni yo’qotdim. Nima qilishim kerak?,Present Perfect + Modal
+1380,14,Do you accept cards?,Karta qabul qilasizmi?,Present Simple
+1381,14,Keep the change.,Qaytimi o’zingizda qolsin.,ibora
+1382,14,We’re running late. Let’s take a taxi.,Kech qolyapmiz. Taksi olaylik.,Present Continuous
+1383,14,"If I were you, I would start today.","Sizning o’rningizda bo’lsam, bugun boshlardim.",2-tur shart
+1384,14,You had better see a doctor.,Shifokorga borganingiz ma’qul.,had better
+1385,14,You don’t have to hurry; we have plenty of time.,"Shoshilishingiz shart emas, vaqtimiz ko’p.",Modal
+1386,14,You mustn’t forget your documents.,Hujjatlaringizni unutmasligingiz kerak.,"Modal, taqiq"
+1387,14,"If you don’t understand, just ask.","Tushunmasangiz, shunchaki so’rang.",0-tur shart
+1388,14,"Unless it rains, the match will take place.","Yomg’ir yog’masa, o’yin bo’lib o’tadi.",unless
+1389,14,I wish I had more free time.,Kaş bo’sh vaqtim ko’proq bo’lsa.,wish
+1390,14,"If I had known, I would have told you.","Bilganimda, sizga aytgan bo’lardim.",3-tur shart
+1391,14,It’s important to be patient.,Sabrli bo’lish muhim.,ibora
+1392,14,Why don’t we meet at the cafe?,Nega kafeda uchrashmaymiz?,taklif
+1393,14,I’m learning English because I want to teach in English one day.,Bir kun kelib inglizcha dars bermoqchi bo’lganim uchun ingliz tilini o’rganyapman.,Present Continuous + sabab
+1394,14,"The more I practice, the more confident I feel.","Qancha ko’p mashq qilsam, shuncha ishonchliroq his qilaman.",Comparative
+1395,14,Small steps every day lead to big results.,Har kungi kichik qadamlar katta natijaga olib keladi.,Present Simple
+1396,14,"I haven’t reached my goal yet, but I’m getting closer.","Maqsadimga hali yetmadim, lekin yaqinlashyapman.",Present Perfect + Present Continuous
+1397,14,"If I keep going, I will succeed.","Davom etsam, muvaffaqiyatga erishaman.",1-tur shart
+1398,14,Mistakes are made by everyone; what matters is learning from them.,"Xatoni hamma qiladi, muhimi ulardan o’rganish.",Passive
+1399,14,"I’m not giving up, whatever happens.","Nima bo’lmasin, taslim bo’lmayman.",Present Continuous
+1400,14,"One day, I will look back and be proud of myself.","Bir kun kelib ortga qarab, o’zim bilan faxrlanaman.",will
+1401,15,I have been studying English for two months.,Ikki oydan beri ingliz tilini o’rganyapman.,Present Perfect Continuous
+1402,15,She has been working here since January.,U yanvardan beri shu yerda ishlayapti.,Present Perfect Continuous
+1403,15,They have been waiting for an hour.,Ular bir soatdan beri kutyapti.,Present Perfect Continuous
+1404,15,It has been raining all day.,Kun bo’yi yomg’ir yog’yapti.,Present Perfect Continuous
+1405,15,How long have you been learning to code?,Qancha vaqtdan beri kod yozishni o’rganyapsiz?,Present Perfect Continuous
+1406,15,He has been playing football since he was ten.,U o’n yoshidan beri futbol o’ynaydi.,Present Perfect Continuous
+1407,15,We have been talking about this for ages.,Biz bu haqda anchadan beri gaplashyapmiz.,Present Perfect Continuous
+1408,15,I’m tired because I have been working all night.,"Charchaganman, chunki tun bo’yi ishlaganman.",Present Perfect Continuous
+1409,15,She hasn’t been feeling well lately.,U so’nggi paytlarda o’zini yaxshi his qilmayapti.,Present Perfect Continuous
+1410,15,What have you been doing today?,Bugun nima bilan band bo’ldingiz?,Present Perfect Continuous
+1411,15,"When I arrived, the lesson had already started.","Men yetib kelganimda, dars allaqachon boshlangan edi.",Past Perfect
+1412,15,She had finished her homework before dinner.,U kechki ovqatdan oldin uy vazifasini tugatgan edi.,Past Perfect
+1413,15,I didn’t have the keys because I had left them at work.,"Kalitlarim yo’q edi, chunki ularni ishda qoldirgan edim.",Past Perfect
+1414,15,"By the time we got to the station, the train had left.","Bekatga yetib borganimizda, poyezd ketib bo’lgan edi.",Past Perfect
+1415,15,He had never seen snow before he went to Russia.,U Rossiyaga borguncha hech qachon qor ko’rmagan edi.,Past Perfect
+1416,15,They had lived in Bukhara for ten years before they moved to Tashkent.,Ular Toshkentga ko’chishdan oldin o’n yil Buxoroda yashagan edi.,Past Perfect
+1417,15,"After I had eaten, I washed the dishes.","Ovqatlanib bo’lgach, idishlarni yuvdim.",Past Perfect
+1418,15,Had you heard the news before I told you?,Men aytishimdan oldin yangilikni eshitgan edingizmi?,"Past Perfect, so’roq"
+1419,15,She was upset because she hadn’t passed the test.,"U xafa edi, chunki testdan o’tmagan edi.","Past Perfect, inkor"
+1420,15,The shop had closed by the time I got there.,Men borganimda do’kon yopilib bo’lgan edi.,Past Perfect
+1421,15,The teacher who taught me history was very kind.,Menga tarixdan dars bergan o’qituvchi juda mehribon edi.,who
+1422,15,This is the book that I told you about.,Bu men sizga aytgan kitob.,that
+1423,15,The city where I was born is very old.,Men tug’ilgan shahar juda qadimiy.,where
+1424,15,I know a man whose son works in Dubai.,O’g’li Dubayda ishlaydigan bir kishini bilaman.,whose
+1425,15,The phone which I bought last week is already broken.,O’tgan hafta sotib olgan telefonim allaqachon buzilib qoldi.,which
+1426,15,She is the person who helped me with the project.,U loyihada menga yordam bergan odam.,who
+1427,15,That’s the cafe where we met.,Mana shu biz uchrashgan kafe.,where
+1428,15,Students who study every day improve faster.,Har kuni o’qiydigan o’quvchilar tezroq o’sadi.,who
+1429,15,The article that I read yesterday was interesting.,Kecha o’qigan maqolam qiziqarli edi.,that
+1430,15,"My brother, who lives in Samarkand, is a doctor.",Samarqandda yashaydigan akam shifokor.,"who, qo’shimcha ma’lumot"
+1431,15,He said that he was tired.,U charchaganini aytdi.,Reported speech
+1432,15,She told me that she would call me later.,U keyinroq qo’ng’iroq qilishini aytdi.,Reported speech
+1433,15,The teacher said that the exam had been postponed.,O’qituvchi imtihon qoldirilganini aytdi.,Reported speech
+1434,15,I asked him where he lived.,Undan qayerda yashashini so’radim.,Reported question
+1435,15,She asked me if I wanted some tea.,"U mendan choy xohlaymi-yo’qmi, deb so’radi.",Reported question
+1436,15,They said they were going to open a new shop.,Ular yangi do’kon ochmoqchi ekanini aytdi.,Reported speech
+1437,15,He told us not to be late.,U bizga kech qolmaslikni aytdi.,Reported command
+1438,15,My friend said that he had finished the project.,Do’stim loyihani tugatganini aytdi.,Reported speech
+1439,15,The doctor told me to drink more water.,Shifokor menga ko’proq suv ichishni aytdi.,Reported command
+1440,15,She said that she couldn’t come.,U kela olmasligini aytdi.,Reported speech
+1441,15,I enjoy learning new words.,Yangi so’zlar o’rganishni yoqtiraman.,Gerund
+1442,15,She wants to teach history.,U tarixdan dars bermoqchi.,Infinitive
+1443,15,He decided to learn English.,U ingliz tilini o’rganishga qaror qildi.,Infinitive
+1444,15,I’m interested in reading about history.,Tarix haqida o’qishga qiziqaman.,"Gerund, predlogdan keyin"
+1445,15,They avoid eating fast food.,Ular fast-fud yeyishdan qochadi.,Gerund
+1446,15,I’m planning to take the exam in June.,Imtihonni iyunda topshirishni rejalashtiryapman.,Infinitive
+1447,15,Would you mind opening the window?,Derazani ochib bersangiz bo’ladimi?,"Gerund, xushmuomala iltimos"
+1448,15,It’s difficult to speak English fluently.,Inglizchani ravon gapirish qiyin.,Infinitive
+1449,15,She stopped smoking last year.,U o’tgan yili chekishni tashladi.,Gerund
+1450,15,I forgot to lock the door.,Eshikni qulflashni unutibman.,Infinitive
+1451,15,"It’s a nice day, isn’t it?","Yaxshi kun, shunday emasmi?",Question tag
+1452,15,"You are a teacher, aren’t you?","Siz o’qituvchisiz, to’g’rimi?",Question tag
+1453,15,"She doesn’t live here, does she?","U bu yerda yashamaydi, to’g’rimi?",Question tag
+1454,15,"They went to the park, didn’t they?","Ular bog’ga borishdi, shunday emasmi?",Question tag
+1455,15,"You can swim, can’t you?","Siz suza olasiz, to’g’rimi?",Question tag
+1456,15,"He hasn’t called, has he?","U qo’ng’iroq qilmadi, to’g’rimi?",Question tag
+1457,15,"Let’s start, shall we?","Boshlaylik, mayli?",Question tag
+1458,15,“I like tea.” – “So do I.”,“Choyni yoqtiraman.” – “Men ham.”,So do I
+1459,15,“I don’t like coffee.” – “Neither do I.”,“Qahvani yoqtirmayman.” – “Men ham.”,Neither do I
+1460,15,“I have finished.” – “So have I.”,“Tugatdim.” – “Men ham.”,So have I
+1461,15,I need a pen and an eraser.,Menga qalam va o’chirg’ich kerak.,a / an
+1462,15,The sun rises in the east.,Quyosh sharqdan chiqadi.,the
+1463,15,"There isn’t much milk, but there are many eggs.","Sut ko’p emas, lekin tuxum ko’p.",much / many
+1464,15,Do you have any questions?,Savollaringiz bormi?,any
+1465,15,"I’d like some tea, please.","Iltimos, biroz choy.",some
+1466,15,A few of my friends came to the party.,Ba’zi do’stlarim ziyofatga keldi.,a few
+1467,15,"I have little time, so I can’t help you today.","Vaqtim juda kam, shuning uchun bugun yordam bera olmayman.",little
+1468,15,Every student must bring a notebook.,Har bir o’quvchi daftar olib kelishi shart.,every
+1469,15,Both of my brothers are teachers.,Ikkala akam ham o’qituvchi.,both
+1470,15,Neither of them knows the answer.,Ularning hech biri javobni bilmaydi.,neither
+1471,15,Tell me about yourself.,O’zingiz haqingizda gapirib bering.,ibora
+1472,15,What are your strengths and weaknesses?,Kuchli va zaif tomonlaringiz qanday?,Present Simple
+1473,15,I have three years of experience in teaching.,O’qitishda uch yillik tajribam bor.,Present Simple
+1474,15,I’m good at solving problems.,Muammolarni hal qilishda kuchliman.,ibora
+1475,15,I work well under pressure.,Bosim ostida yaxshi ishlayman.,ibora
+1476,15,Why do you want to work for our company?,Nega bizning kompaniyada ishlamoqchisiz?,Infinitive
+1477,15,I’m available to start next month.,Kelasi oydan ishni boshlashga tayyorman.,ibora
+1478,15,Could you tell me more about the working hours?,Ish vaqti haqida ko’proq aytib bera olasizmi?,Modal
+1479,15,I look forward to hearing from you.,Sizdan javob kutib qolaman.,"ibora, Gerund"
+1480,15,Thank you for taking the time to meet me.,Men bilan uchrashishga vaqt ajratganingiz uchun rahmat.,"ibora, Gerund"
+1481,15,I always log in to my account before class.,Darsdan oldin doim hisobimga kiraman.,phrasal verb
+1482,15,Please log out when you finish.,Tugatganingizda hisobdan chiqing.,phrasal verb
+1483,15,"The app crashed, so I had to restart my phone.","Ilova ishdan chiqdi, shuning uchun telefonni qayta yoqishimga to’g’ri keldi.",Past Simple + have to
+1484,15,I back up my files every week.,Fayllarimni har hafta zaxiralayman.,phrasal verb
+1485,15,She uploaded the video yesterday.,U videoni kecha yukladi.,Past Simple
+1486,15,Can you share your screen?,Ekraningizni ulasha olasizmi?,Modal
+1487,15,My internet is down.,Internetim ishlamayapti.,ibora
+1488,15,I need to charge my phone; it’s about to die.,"Telefonimni zaryadlashim kerak, u o’chay deb turibdi.",be about to
+1489,15,The update was installed automatically.,Yangilanish avtomatik o’rnatildi.,Passive
+1490,15,AI is changing the way we learn.,Sun’iy intellekt o’rganish usulimizni o’zgartiryapti.,Present Continuous
+1491,15,"Although it was raining, we went out.","Yomg’ir yog’sa ham, tashqariga chiqdik.",although
+1492,15,"I like the course; however, it is quite expensive.","Kurs menga yoqadi, lekin ancha qimmat.",however
+1493,15,He was late because of the traffic.,U tirbandlik sababli kech qoldi.,because of
+1494,15,I’m studying hard in order to pass the exam.,Imtihondan o’tish uchun qattiq o’qiyapman.,in order to
+1495,15,"She speaks English well, so she got the job.","U inglizchani yaxshi gapiradi, shuning uchun ishni oldi.",so
+1496,15,"In addition, the school offers free lessons.","Bundan tashqari, maktab bepul darslar taklif qiladi.",in addition
+1497,15,"As a result, many students improved.","Natijada, ko’p o’quvchi yaxshilandi.",as a result
+1498,15,"Despite being tired, he kept working.","Charchagan bo’lsa ham, u ishlashda davom etdi.",despite + Gerund
+1499,15,"First of all, I’d like to thank you.","Avvalo, sizga minnatdorchilik bildirmoqchiman.",ibora
+1500,15,"In conclusion, regular practice is the key to success.","Xulosa qilib aytganda, muntazam mashq muvaffaqiyat kaliti.",ibora
