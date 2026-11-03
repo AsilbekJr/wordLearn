@@ -6,20 +6,26 @@ const STORAGE_KEYS = {
 };
 
 export function getSupabaseCredentials(): { url: string; anonKey: string; isConfigured: boolean; source: 'env' | 'custom' | 'none' } {
-  // Check localStorage first (user-defined in Settings UI)
+  // 1. Primary priority: .env file variables (VITE_SUPABASE_URL & VITE_SUPABASE_ANON_KEY)
+  const envUrl = import.meta.env.VITE_SUPABASE_URL;
+  const envKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
+  if (
+    envUrl &&
+    envKey &&
+    !envUrl.includes('placeholder') &&
+    !envUrl.includes('your-project') &&
+    envUrl.startsWith('http')
+  ) {
+    return { url: envUrl.trim(), anonKey: envKey.trim(), isConfigured: true, source: 'env' };
+  }
+
+  // 2. Secondary fallback: localStorage custom settings (if entered in Settings UI)
   if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
     const customUrl = localStorage.getItem(STORAGE_KEYS.CUSTOM_URL);
     const customKey = localStorage.getItem(STORAGE_KEYS.CUSTOM_KEY);
-    if (customUrl && customKey) {
+    if (customUrl && customKey && customUrl.startsWith('http')) {
       return { url: customUrl.trim(), anonKey: customKey.trim(), isConfigured: true, source: 'custom' };
     }
-  }
-
-  // Fallback to Vite env variables
-  const envUrl = import.meta.env.VITE_SUPABASE_URL;
-  const envKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
-  if (envUrl && envKey && !envUrl.includes('placeholder')) {
-    return { url: envUrl.trim(), anonKey: envKey.trim(), isConfigured: true, source: 'env' };
   }
 
   return {

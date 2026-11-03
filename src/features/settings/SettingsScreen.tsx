@@ -212,7 +212,9 @@ export const SettingsScreen: React.FC = () => {
             {creds.isConfigured ? (
               <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-[2px] bg-[#EDF3EC] border border-[#B7D2B3] text-[#4F6B4A] text-xs font-mono">
                 <Cloud className="w-3.5 h-3.5" />
-                <span>{uz.settings.supabaseConnected}</span>
+                <span>
+                  {uz.settings.supabaseConnected} {creds.source === 'env' ? '(.env dan oʻqildi)' : ''}
+                </span>
               </span>
             ) : (
               <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-[2px] bg-[#FAF7F2] border border-[#E2DBD0] text-[#646059] text-xs font-mono">
